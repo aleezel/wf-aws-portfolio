@@ -1,0 +1,392 @@
+<!DOCTYPE html><!-- Last Published: Tue Jan 28 2025 21:49:15 GMT+0000 (Coordinated Universal Time) --><html data-wf-page="6787c55e6c2d0f1df5960c23" data-wf-site="6737d13cae675b376faa9fbe"><head><meta charset="utf-8"/><title>Outerspace — Alejandra Piedra</title><meta content="A musician&#x27;s starter pack: concep art for a music cover, aiming to connect strangers for the taste of electro-house music. An stellar piece and a juicy feeling landed in a vynil piece and merch identity." name="description"/><meta content="Outerspace — Alejandra Piedra" property="og:title"/><meta content="A musician&#x27;s starter pack: concep art for a music cover, aiming to connect strangers for the taste of electro-house music. An stellar piece and a juicy feeling landed in a vynil piece and merch identity." property="og:description"/><meta content="Outerspace — Alejandra Piedra" property="twitter:title"/><meta content="A musician&#x27;s starter pack: concep art for a music cover, aiming to connect strangers for the taste of electro-house music. An stellar piece and a juicy feeling landed in a vynil piece and merch identity." property="twitter:description"/><meta property="og:type" content="website"/><meta content="summary_large_image" name="twitter:card"/><meta content="width=device-width, initial-scale=1" name="viewport"/><link href="../css/webflow-style.css" rel="stylesheet" type="text/css"/><link href="https://fonts.googleapis.com" rel="preconnect"/><link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script><script type="text/javascript">WebFont.load({  google: {    families: ["Lato:100,100italic,300,300italic,400,400italic,700,700italic,900,900italic","Fjalla One:regular:latin,latin-ext","Host Grotesk:300,regular,500,600,800,300italic,500italic,600italic"]  }});</script><script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script><link href="../assets/2a448231-678818b040a2630d7bc81c04_alejandrapiedra_favicon.png" rel="shortcut icon" type="image/x-icon"/><link href="../assets/deab9b9d-67881a7eee3657439595c90d_alejandrapiedra_webicon.png" rel="apple-touch-icon"/><style>
+	.load-grid{
+  	display: grid;
+  }
+  .w-editor .load-w{
+  	display: none;
+	}
+  
+  </style></head><body class="body"><div class="page_wrapper"><div class="w-embed"><style>
+
+:root {
+  --black: #f40;
+  --container--full: calc(100% - var(--site--margin) * 2);
+}
+
+@media (min-width: 600px) {
+  a[stagger-link] [stagger-link-text] {
+  	text-shadow: 0px 1.2em 0px var(--black);
+	}
+}
+
+.is-loading{display:none;}
+ 
+/*  THINGS LOADING at EVERY REFRESH*/
+.hero-section{opacity:0;}
+
+nav{
+	opacity: 0;
+  transition: all 0.8s ease-out;
+  transition-delay: 150ms;
+}
+
+::selection {
+background: #E0E;
+color: var(--black);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+body.hovered .panning-links a img{
+	opacity: 0.1;
+}
+
+body.hovered .panning-links a.hovered img {
+ opacity: 1;
+ transition: all 0.5s cubic-bezier( 0.175, 0.885, 0.32, 1.275 );
+ transform: scale(1.1);
+ box-shadow: 0 0 16px #000000033;
+}
+
+
+body:has([data-info]:hover) .cursor{
+	opacity: 1;
+  border-color: #FFF;
+}
+
+.menu-link, .menu-link .menu-text {
+	display:block !important;
+}
+
+</style></div><nav class="nav"><div class="backtowork"></div><a id="animicon-container" href="#" class="animicon-container w-inline-block"><img src="../assets/225ae42c-6784552cb0136cc2b800f851_menuBlink.gif" loading="lazy" width="48" height="48" alt="Menu icon to smiley blink face pencil texture style animation " id="menu-icon" class="menu-icon"/></a><ul role="list" class="menu-dropdown w-list-unstyled"><li><a stagger-link="" href="/" class="menu-link w-inline-block"><h4 stagger-link-text="" class="menu-text">HOME</h4></a></li><li><a stagger-link="" href="/aboutme" class="menu-link _w-block w-inline-block"><h4 stagger-link-text="" class="menu-text">ABOUT ME</h4></a></li></ul></nav><div class="main_wrapper"><section class="hero-section"><div id="w-node-fa90ea41-437f-3a41-3f18-442441834205-f5960c23" class="project-info"><h1 class="project-title">OUTERSPACE</h1><div class="mainimagelol"><img src="../assets/e2cd323e-67852068be12791af93f8358_vinilo-isolated-500.png" loading="lazy" width="400" alt="Galactic berries concept art in a vynilo disk design of techno music." class="project-media"/></div></div><div id="w-node-b35d274e-1d91-230d-b887-24bbb274eaef-f5960c23" class="project-description"><p class="project-description_text">A musician&#x27;s starter pack: concep art development aiming to connect strangers for the taste of electro-house music. An stellar piece and a juicy feeling landed in a nil piece and merch identity.</p><div class="project-tags-info"><p class="project-tags">Concept identity</p><p class="project-tags">2024</p></div><div class="more-tags"><p class="project-tags medium">Illustration</p><p class="project-tags medium">Music industry</p></div></div><div class="cuadrant-info"><div class="project-tags-grid top-left">2024</div><div class="project-tags-grid top-right">2024</div><div class="project-tags-grid bottom-left">2024</div><div class="project-tags-grid bottom-right">2024</div></div></section><section class="process-info"><div class="process-info_container"><div class="pj-image-container _1"></div><div class="pj-image-container"></div></div></section><section class="gallery display-none"><h2 class="heading-4">PROCESS DUMP</h2><div class="gallery_container"><div class="gallery_image img_1 video-container"><div data-poster-url="../assets/94e1fda1-6737d13cae675b376faa9fbe6787c00328ffb5e6d1f76540_ritmo_3-poster-00001.jpg" data-video-urls="../assets/ea6cfe6a-6737d13cae675b376faa9fbe6787c00328ffb5e6d1f76540_ritmo_3-transcode.mp4,../assets/c324d25e-6737d13cae675b376faa9fbe6787c00328ffb5e6d1f76540_ritmo_3-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="w-background-video w-background-video-atom"><video id="5f3ea86e-aa7c-1dce-77d2-5aa7b62a692b-video" autoplay="" loop="" style="background-image:url(&quot;../assets/94e1fda1-6737d13cae675b376faa9fbe6787c00328ffb5e6d1f76540_ritmo_3-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover"><source src="../assets/ea6cfe6a-6737d13cae675b376faa9fbe6787c00328ffb5e6d1f76540_ritmo_3-transcode.mp4" data-wf-ignore="true"/><source src="../assets/c324d25e-6737d13cae675b376faa9fbe6787c00328ffb5e6d1f76540_ritmo_3-transcode.webm" data-wf-ignore="true"/></video></div></div><div class="gallery_image img_2 video-container"><div data-poster-url="../assets/0c3bcdcf-6737d13cae675b376faa9fbe6787c08fff0351758d228b59_Ritmo-AlejandraPiedra-poster-00001.jpg" data-video-urls="../assets/1e5b8c09-6737d13cae675b376faa9fbe6787c08fff0351758d228b59_Ritmo-AlejandraPiedra-transcode.mp4,../assets/e37d3b75-6737d13cae675b376faa9fbe6787c08fff0351758d228b59_Ritmo-AlejandraPiedra-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="w-background-video w-background-video-atom"><video id="df03fb43-ff54-9daa-95f5-2053688c3357-video" autoplay="" loop="" style="background-image:url(&quot;../assets/0c3bcdcf-6737d13cae675b376faa9fbe6787c08fff0351758d228b59_Ritmo-AlejandraPiedra-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover"><source src="../assets/1e5b8c09-6737d13cae675b376faa9fbe6787c08fff0351758d228b59_Ritmo-AlejandraPiedra-transcode.mp4" data-wf-ignore="true"/><source src="../assets/e37d3b75-6737d13cae675b376faa9fbe6787c08fff0351758d228b59_Ritmo-AlejandraPiedra-transcode.webm" data-wf-ignore="true"/></video></div></div><img src="../assets/df9fc497-6787c3e1e439fedcbfdbf0e1_Sketch_alejandraPiedra.png" loading="lazy" sizes="100vw" height="400" alt="p5js visual art sketch of a glitch reddish purple color generative art. Generated by music behind." srcset="../assets/308b30c5-6787c3e1e439fedcbfdbf0e1_Sketch_alejandraPiedra-p-500.png 500w, ../assets/df9fc497-6787c3e1e439fedcbfdbf0e1_Sketch_alejandraPiedra.png 991w" class="gallery_image img_3 no-visible"/><img src="../assets/df9fc497-6787c3e1e439fedcbfdbf0e1_Sketch_alejandraPiedra.png" loading="lazy" sizes="100vw" height="400" alt="p5js visual art sketch of a glitch reddish purple color generative art. Generated by music behind." srcset="../assets/308b30c5-6787c3e1e439fedcbfdbf0e1_Sketch_alejandraPiedra-p-500.png 500w, ../assets/df9fc497-6787c3e1e439fedcbfdbf0e1_Sketch_alejandraPiedra.png 991w" class="gallery_image img_4"/><div class="gallery_image img_5 video-container"><div data-poster-url="../assets/3b6d592c-6737d13cae675b376faa9fbe6787c10b63bdcd084370759a_Glitch_dans_la_nuit-poster-00001.jpg" data-video-urls="../assets/404dc99c-6737d13cae675b376faa9fbe6787c10b63bdcd084370759a_Glitch_dans_la_nuit-transcode.mp4,../assets/74793a06-6737d13cae675b376faa9fbe6787c10b63bdcd084370759a_Glitch_dans_la_nuit-transcode.webm" data-autoplay="true" data-loop="true" data-wf-ignore="true" class="w-background-video w-background-video-atom"><video id="b1bcb2a8-6b8e-f0a9-1d67-0159c94a9e42-video" autoplay="" loop="" style="background-image:url(&quot;../assets/3b6d592c-6737d13cae675b376faa9fbe6787c10b63bdcd084370759a_Glitch_dans_la_nuit-poster-00001.jpg&quot;)" muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover"><source src="../assets/404dc99c-6737d13cae675b376faa9fbe6787c10b63bdcd084370759a_Glitch_dans_la_nuit-transcode.mp4" data-wf-ignore="true"/><source src="../assets/74793a06-6737d13cae675b376faa9fbe6787c10b63bdcd084370759a_Glitch_dans_la_nuit-transcode.webm" data-wf-ignore="true"/></video></div></div></div></section><footer class="footer"><div class="w-layout-blockcontainer w-container"><a stagger-link="" href="mailto:alejandraapiedrag@gmail.com?subject=Project%20request%20%E2%9C%A7%20%5Binfo%20here%5D" class="stagger-link w-inline-block"><h2 stagger-link-text="" class="contact-link">Let&#x27;s create something wild</h2></a><ul role="list" class="footer-container w-list-unstyled"><li><a href="https://www.instagram.com/alee.piedraa" target="_blank" class="footer-link">Instagram</a></li><li><a href="https://www.instagram.com/alezel_" target="_blank" class="footer-link">Art Instagram</a></li><li><a href="https://www.linkedin.com/alejandrapiedra" target="_blank" class="footer-link">LinkedIn</a></li><li class="display-none"><a href="https://www.behance.com/alejandrapiedra" target="_blank" class="footer-link">Behance</a></li><li><a href="https://www.twitter.com/alepiedrag" target="_blank" class="footer-link">Twitter</a></li></ul><p class="project-tags">Alejandra Piedra <strong>© 2025.</strong></p></div></footer></div><div class="load_grid"><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div><div class="load_grid-pixel"></div></div></div><script src="../js/jquery.js?site=6737d13cae675b376faa9fbe" type="text/javascript"  ></script><script src="../js/webflow-script.js" type="text/javascript"></script><script src="https://unpkg.com/split-type"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/gsap.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
+<script src="https://unpkg.com/lenis@1.1.19/dist/lenis.min.js"></script> 
+<script src="https://timingisnow.alejandra-piedra.com/libgif.js"></script>
+
+<script>
+
+// ┊͙✧˖*°࿐ !!!!   DISABLE SCROLL AND ENABLE AFTER LADING ANIMATION  !!!  ✧˖*°࿐┊͙
+
+
+// ┊͙✧˖*°࿐ !!!!   LOAD  ANIMATIONS WHILE DOM FROM GSAP   !!!  ✧˖*°࿐┊͙
+// wait until DOM is ready
+let heroSection = document.querySelector(".hero-section");
+let nav = document.querySelector("nav");
+$(document).ready(function(){
+      // OPTIONAL - waits til next tick render to run code (prevents running in the middle of render tick)
+      window.requestAnimationFrame(function() {
+      	heroSection.style.opacity = 1;
+        nav.style.opacity = 1;
+  		}); 
+});
+
+// ┊͙✧˖*°࿐  SMOOTH SCROLL  ✧˖*°࿐┊͙
+const lenis = new Lenis();
+let scrollTime = 0;
+
+	// Synchronize Lenis scrolling with GSAP's ScrollTrigger plugin
+	lenis.on('scroll', ScrollTrigger.update);
+	// Add Lenis's requestAnimationFrame (raf) method to GSAP's ticker
+	// This ensures Lenis's smooth scroll animation updates on each GSAP tick
+	gsap.ticker.add((time) => {
+  	lenis.raf(time * scrollTime); // Convert time from seconds to milliseconds
+	});
+	// Disable lag smoothing in GSAP to prevent any delay in scroll animations
+	gsap.ticker.lagSmoothing(0);
+
+
+// ┊͙✧˖*°࿐ PIXEL TRANSITION AT START  ✧˖*°࿐┊͙
+gsap.to(".load_grid-pixel", {
+  opacity: 0,
+  duration: 0.001,
+  stagger: { amount: 0.5, from: "random" },
+  onComplete: () => {
+    gsap.set(".load_grid", { display: "none" });
+  }
+});
+
+// ✧TRANSITION AFTER CLICKING✧
+$(document).ready(function () {
+  $("a").on("click", function (e) {
+    if (
+    	$(this).prop("hostname") === window.location.host &&
+      $(this).attr("href").indexOf("#") === -1 &&
+      $(this).attr("target") !== "_blank") {
+        e.preventDefault();
+        let destination = $(this).attr("href");
+        gsap.set(".load_grid", { display: "grid" });
+        gsap.fromTo(
+          ".load_grid-pixel",
+          {
+            opacity: 0
+          },
+          {
+            opacity: 1,
+            duration: 0.001,
+            stagger: { amount: 0.5, from: "random" }, //you can also try a from: "start" or "end" -- get creative!
+            onComplete: () => {
+              window.location = destination;
+            }
+          }
+        );
+    }
+  });
+  
+  // On click of the back button
+  window.onpageshow = function(event){
+  	if (event.persisted) {
+    	window.location.reload();
+    }
+  }
+});
+
+// ┊͙✧˖*°࿐  MENU ANIMATION  ✧˖*°࿐┊͙
+const staggerLinks = document.querySelectorAll("[stagger-link]")
+gsap.set(".menu-dropdown", {display: "none", y: "8rem"})
+
+//	let menuHover = gsap.to(".menu-icon", 1, {x: -384, ease:"steps(-6)", paused: true});
+//	let menuIcon = document.querySelector(".animicon-container");
+  
+  let isClicked = gsap.timeline({paused:true})
+  isClicked.from(".menu-dropdown", {display: "none", y: "8rem", duration: 0})
+  .to(".menu-dropdown", {display:"flex", y:"6rem",
+  	onComplete: () => {
+    	console.log("careless whispers")
+    }
+   })
+  .from(".menu-link", {y:"2rem", opacity:0, ease: "power4.inOut",
+      stagger: { each: 0.01 }}, "<")
+
+   
+  //isClicked.to("menu-text [stagger-link]", )
+
+
+//["mouseenter", "touchmove"].forEach( event =>
+//	menuIcon.addEventListener(event, () => {
+//  	menuHover.play()
+//    console.log("hola");
+//  })
+//)
+
+//["mouseout", "touchend"].forEach( event =>
+//	menuIcon.addEventListener(event, () => {
+//  	menuHover.reverse()
+//  })
+//)
+
+//["click", "touchend"].forEach( event =>
+//	menuIcon.addEventListener(event, () => {
+//  	isClicked.play()
+  //})
+//)
+
+const gifContainer = document.getElementById("animicon-container")
+const gifElement = document.getElementById("menu-icon")
+console.log(gifElement, gifContainer)
+const gif = new SuperGif({ gif: gifElement })
+const FRAME_RATE = 180
+
+gif.load(function () {
+    gif.pause()
+    frameController("mouseout")
+});
+
+const faceButtonEventHandler = event => {
+    frameController(event.type)
+}
+
+const frameUpdateLogic = (startFrame, endFrame) => {
+    // debo saber en que frame estoy
+    // en base al tipo debo calcular cuál sigue
+    // debo actalizar el frame
+    const currentFrame = gif.get_current_frame()
+    if (currentFrame > endFrame) {
+        gif.move_to(currentFrame - 1)
+    } else if (currentFrame < endFrame) {
+        let nextFrame = currentFrame + 1
+        gif.move_to(nextFrame)
+    } else {
+        gif.move_to(startFrame)
+    }
+}
+
+gifContainer.addEventListener("mouseover", faceButtonEventHandler)
+gifContainer.addEventListener("mouseout", faceButtonEventHandler)
+gifContainer.addEventListener("click", faceButtonEventHandler)
+
+
+// Tres tipos de reproducción,
+// mouseout: Sin tocar nada, solo se reproducen los primeros 3 frames
+// mouseover: Poner el mouse sobre el gif, se reproducen del 4 al 7
+// click: Das click y se reproducen 8 al 10
+let intervalId = null;
+let isMenuActive = false;
+const frameController = (currentActionType) => {
+    clearInterval(intervalId)
+    console.log(currentActionType)
+    if (currentActionType === "mouseover" ) {
+        intervalId = setInterval(frameUpdateLogic, FRAME_RATE, 6, 7)
+    }
+    if (currentActionType === "mouseout") {
+        intervalId = setInterval(frameUpdateLogic, FRAME_RATE, 0, 1)
+    }
+    if (currentActionType === "click" && !isMenuActive) {
+        intervalId = setInterval(frameUpdateLogic, FRAME_RATE, 6, 8)
+        isClicked.play();   	 	
+        isMenuActive = true
+       	console.log("click 1")
+      }
+		 else if (currentActionType === "click" && isMenuActive) {
+        intervalId = setInterval(frameUpdateLogic, FRAME_RATE, 0, 1)
+        isClicked.reverse();   	 	
+        isMenuActive = false
+        console.log("click 2")
+      }
+}
+
+
+// ┊͙✧˖*°࿐ HEAD TEXT REVEAL  ✧˖*°࿐┊͙ 
+	const revealText = new SplitType("p", {
+    types: "lines, words"
+  });
+
+// ┊͙✧˖ PROJECT TIMELINE AFTER LOAD࿐┊͙
+	let mm = gsap.matchMedia();
+  
+  mm.add({
+  	isMobile:"(max-width: 500px)",
+    isDesktop: "(min-width: 500px)"
+  }, (context) => {
+  	let = { isDesktop, isMobile} = context.conditions;
+    
+    // ┊͙✧˖*°࿐ STARRING PROJECT SHOW OFF TRANSITION  ✧˖*°࿐┊͙
+		gsap.set(".mainimagelol", {y: "130%", left: isDesktop ? "100%" : "50%" })
+		//gsap.set([".mainimage", ".project-title"], {x: "100%"})
+		gsap.set(".project-title", {opacity: 0, left: isMobile ? "50%" : "100%"})
+    gsap.set(".project-description_text .word, .project-tags .word", {opacity: 0, y: 30})
+    
+    
+		let leanOutLoopTL = gsap.timeline({ defaults: { duration: 1, ease: "elastic.out(0.5,0.4)"} });
+		leanOutLoopTL.to(".project-title", {opacity: 1, duration: 0.5, ease:"power2.in" })
+    .to(".mainimagelol", {y: "100%", ease:"elastic.out(1,0.4)"})
+    .to(".mainimagelol", {y: "0%", rotation: 7})
+    .to(".mainimagelol", {left: "50%", rotationY: 360, rotation: 0})
+    .to(".project-title", {left: "50%", y: "-150%"}, ">-1")
+    .to(".project-title", {left: "50%", y: "-150%"}, ">-1")
+    .to(".project-description_text .word, .project-tags .word",
+    		{opacity: 1, y: 0, duration: 1,	stagger: { amount: 0.2 },
+     		onComplete: () => {
+  				scrollTime = 1000;
+     		}}, ">-1"); })
+
+// ┊͙✧˖*°࿐ TEXT REVEAL  ✧˖*°࿐┊͙ 
+
+// Function to animate text
+function animateText(element) {
+  const lines = element.querySelectorAll('.word');
+  gsap.fromTo(
+    lines,
+    { opacity: 0, y: 30 },
+    { 
+      opacity: 1, 
+      y: 0, 
+      stagger: 0.2, 
+      duration: 1, 
+      ease: 'power2.out',
+      onComplete: () => element.style.opacity = '1' // Ensure text remains visible after animation
+    }
+  );
+}
+
+// Create an Intersection Observer
+const observer = new IntersectionObserver(
+  (entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        animateText(entry.target); // Trigger animation
+        //observer.unobserve(entry.target); // Stop observing after animating
+        console.log(entry)
+      }
+    });
+  },
+  { threshold: 0.1 } // Trigger when 10% of the element is visible
+);
+
+// Observe each element
+document.querySelectorAll('p:not(.project-description_text):not(.project-tags)').forEach(text => {
+  observer.observe(text);
+});
+
+
+// ┊͙✧˖*°࿐ GALLERY DUMP ON SCROLL  ✧˖*°࿐┊͙
+gsap.set(".gallery_image", {opacity: 0});
+
+let scrollGallery = gsap.timeline({
+	delay:3,
+  scrollTrigger: {
+  	trigger: ".gallery",
+  	start: "top bottom",
+    end: "50vh 50vh",
+  	scrub: true,
+    ease:"elastic.out(1,0.4)",
+    defaults: { ease: "power1"}
+  }
+ });
+ 
+scrollGallery.to(".gallery_image", {opacity:1, duration: 0.5, stagger: {amount: 0.3, from: "random"}})
+	.to(".img_1", {y: "-25%", rotation: -6, x: "-55%"}, "0.4")
+  .to(".img_2", {y: "-120%", rotation: 3, x: "5%"}, "1.2")
+  .to(".img_3", {y: "-210%", rotation: -8, x: "-150%"}, "1.6")
+  .to(".img_4", {y: "-310%", rotation: 3, x: "100%"}, "2")
+  .to(".img_5", {y: "-480%", rotation: 5, x: "60%"}, "2.3")
+  
+
+// ┊͙✧˖*°࿐ FOOTER SPLIT TEXT  ✧˖*°࿐┊͙
+let staggerLink;
+function runSplit() {
+  staggerLink = new SplitType("[stagger-link]", {
+    types: "words, chars"
+  });
+}
+runSplit();
+
+// Update on windows resize, checks if the browser changes resolution to run again the function
+let windowWidth = $(window).innerWidth();
+window.addEventListener("resize", function () {
+  if (windowWidth !== $(window).innerWidth()) {
+    windowWidth = $(window).innerWidth();
+    staggerLink.revert();
+    runSplit();
+  }
+});
+
+// ✧SETTING AND TIMELINE ANIMATION✧
+
+staggerLinks.forEach((link) => {
+  const letters = link.querySelectorAll("[stagger-link-text] .char");
+  link.addEventListener("mouseenter", function () {
+    gsap.to(letters, {
+      yPercent: -130,
+      duration: 0.5,
+      ease: "power4.inOut",
+      stagger: { each: 0.01 },
+      overwrite: true
+    });
+
+  });
+  link.addEventListener("mouseleave", function () {
+    gsap.to(letters, {
+      yPercent: 0,
+      duration: 0.5,
+      ease: "power4.inOut",
+      stagger: { each: 0.01 }
+    });
+  });
+});
+
+
+</script></body></html>
