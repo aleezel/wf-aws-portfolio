@@ -125,33 +125,33 @@
           <div class="mainimagelol">
             <address
               data-poster-url="../assets/5f70fb63-6737d13cae675b376faa9fbe6787a4429ab5e1f18a2cf701_Stage_dans_la_nuit-poster-00001.jpg"
-              data-video-urls="../assets/619db2a6-6737d13cae675b376faa9fbe6787a4429ab5e1f18a2cf701_Stage_dans_la_nuit-transcode.mp4,../assets/1d0aef06-6737d13cae675b376faa9fbe6787a4429ab5e1f18a2cf701_Stage_dans_la_nuit-transcode.webm"
+              data-video-urls="../assets/evilspider.mp4,../assets/evilspider.webm"
               data-autoplay="true" data-loop="true" data-wf-ignore="true"
-              class="verticalvideo w-background-video w-background-video-atom"><video
+              class="project-media">
+              <video width="550"
                 id="f92529a9-31f4-f1a8-5b9d-029960060efb-video" autoplay="" loop=""
                 style="background-image:url(&quot;../assets/5f70fb63-6737d13cae675b376faa9fbe6787a4429ab5e1f18a2cf701_Stage_dans_la_nuit-poster-00001.jpg&quot;)"
                 muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+               
                 <source
-                  src="../assets/619db2a6-6737d13cae675b376faa9fbe6787a4429ab5e1f18a2cf701_Stage_dans_la_nuit-transcode.mp4"
+                  src="../assets/evilspider.webm"
+                  type="video/webm"
                   data-wf-ignore="true" />
-                <source
-                  src="../assets/1d0aef06-6737d13cae675b376faa9fbe6787a4429ab5e1f18a2cf701_Stage_dans_la_nuit-transcode.webm"
-                  data-wf-ignore="true" />
+                
               </video></address>
           </div>
         </div>
         <div id="w-node-b35d274e-1d91-230d-b887-24bbb274eaef-dc819b6f" class="project-description">
-          <p class="project-description_text">&#x27;Evil Spider&#x27; A website experience for a single release campaign, perfect to tease fans and turn it into a memorable journey. </p>
-          <p class="project-description_text">Large screens, low lights and music higher than you heartbeat.
-            &quot;Cuando cae la noche, pienso en ti como loco&quot;.🥀</p>
+          <p class="project-description_text">A website experience for a single release campaign, perfect to tease fans and turn it into a memorable journey. </p>
+          <p class="project-description_text">Based on the song Evil Spider by Benee, it explores love through a hunting lense. Impactful project to learn the fundations of interactive websites with GSAP and webflow.&quot;.🕷</p>
           <div class="project-tags-info">
-            <p class="project-tags">Code</p>
+            <p class="project-tags">Web design & code</p>
             <p class="project-tags">2025</p>
           </div>
           <div class="more-tags">
-            <p class="project-tags medium">VJ set design</p>
-            <p class="project-tags medium">Large visuals</p>
-            <p class="project-tags medium">Generative art</p>
+            <p class="project-tags medium">Art direction</p>
+            <p class="project-tags medium">Web production</p>
+            <p class="project-tags medium">Interactive</p>
             <p class="project-tags medium">Music industry</p>
           </div>
         </div>
@@ -580,7 +580,7 @@
         .to(".mainimagelol", { y: "0%", rotation: 7 })
         .to(".mainimagelol", { left: "50%", rotationY: 360, rotation: 0 })
         .to(".project-title", { left: "50%", y: "-150%" }, ">-1")
-        .to(".project-title", { left: "50%", y: "-150%" }, ">-1")
+        .to(".project-title", { left: "50%", y: "-275%" }, ">-1")
         .to(".project-description_text .word, .project-tags .word",
           {
             opacity: 1, y: 0, duration: 1, stagger: { amount: 0.2 },

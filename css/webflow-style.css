@@ -2867,6 +2867,8 @@ img {
 .project-media {
   aspect-ratio: 1;
   object-fit: contain;
+  display: flex;
+  align-items: center;
 }
 
 .verticalvideo {
