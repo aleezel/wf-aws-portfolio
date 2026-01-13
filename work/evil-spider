@@ -168,6 +168,7 @@
           <div class="pj-image-container"></div>
         </div>
       </section>
+      <!--
       <section class="gallery">
         <h2 class="heading-4">PROCESS DUMP</h2>
         <div class="gallery_container">
@@ -242,7 +243,7 @@
               </video></div>
           </div>
         </div>
-      </section>
+      </section>-->
       <footer class="footer">
         <div class="w-layout-blockcontainer w-container"><a stagger-link=""
             href="mailto:alejandraapiedrag@gmail.com?subject=Project%20request%20%E2%9C%A7%20%5Binfo%20here%5D"
