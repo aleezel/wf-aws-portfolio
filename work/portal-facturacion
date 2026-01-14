@@ -1,19 +1,19 @@
 <!DOCTYPE html><!-- Last Published: Tue Jan 28 2025 21:49:15 GMT+0000 (Coordinated Universal Time) -->
-<html data-wf-page="6787c5731704b8e649a56d4f" data-wf-site="6737d13cae675b376faa9fbe">
+<html data-wf-page="677c4e08401537b9df9a3711" data-wf-site="6737d13cae675b376faa9fbe">
 
 <head>
   <meta charset="utf-8" />
-  <title>Nowhere — Alejandra Piedra</title>
+  <title>See you in the Arterlife — Alejandra Piedra</title>
   <meta
-    content="Glitchy animated pixel art twist of a vibrant under staircase to a dark nowhere &quot;Liminal dreams&quot; in a desolated playground. Abstract animation, creative coding with p5js."
+    content="&#x27;See you in the arterlife&#x27; is an animated mixed-media event poster about vivid meet-up experiences, where art comes alive in everybody&#x27;s presence. The art is inspired by the flow/trance state where creativity unlocks. The poster title is  inspired by the song &#x27;See you in the afterlife&#x27; by Foster the People, a band whom the designer is very in love of."
     name="description" />
-  <meta content="Nowhere — Alejandra Piedra" property="og:title" />
+  <meta content="See you in the Arterlife — Alejandra Piedra" property="og:title" />
   <meta
-    content="Glitchy animated pixel art twist of a vibrant under staircase to a dark nowhere &quot;Liminal dreams&quot; in a desolated playground. Abstract animation, creative coding with p5js."
+    content="&#x27;See you in the arterlife&#x27; is an animated mixed-media event poster about vivid meet-up experiences, where art comes alive in everybody&#x27;s presence. The art is inspired by the flow/trance state where creativity unlocks. The poster title is  inspired by the song &#x27;See you in the afterlife&#x27; by Foster the People, a band whom the designer is very in love of."
     property="og:description" />
-  <meta content="Nowhere — Alejandra Piedra" property="twitter:title" />
+  <meta content="See you in the Arterlife — Alejandra Piedra" property="twitter:title" />
   <meta
-    content="Glitchy animated pixel art twist of a vibrant under staircase to a dark nowhere &quot;Liminal dreams&quot; in a desolated playground. Abstract animation, creative coding with p5js."
+    content="&#x27;See you in the arterlife&#x27; is an animated mixed-media event poster about vivid meet-up experiences, where art comes alive in everybody&#x27;s presence. The art is inspired by the flow/trance state where creativity unlocks. The poster title is  inspired by the song &#x27;See you in the afterlife&#x27; by Foster the People, a band whom the designer is very in love of."
     property="twitter:description" />
   <meta property="og:type" content="website" />
   <meta content="summary_large_image" name="twitter:card" />
@@ -118,38 +118,24 @@
     </nav>
     <div class="main_wrapper">
       <section class="hero-section">
-        <div id="w-node-fa90ea41-437f-3a41-3f18-442441834205-49a56d4f" class="project-info">
-          <h1 class="project-title">NOWHERE</h1>
-          <div class="mainimagelol">
-            <address
-              data-poster-url="../assets/06dea2d7-6737d13cae675b376faa9fbe678520c48410578bd8cd41ae_Nowhere-poster-00001.jpg"
-              data-video-urls="../assets/0694f8b3-6737d13cae675b376faa9fbe678520c48410578bd8cd41ae_Nowhere-transcode.mp4,../assets/dbab1b69-6737d13cae675b376faa9fbe678520c48410578bd8cd41ae_Nowhere-transcode.webm"
-              data-autoplay="true" data-loop="true" data-wf-ignore="true"
-              class="verticalvideo w-background-video w-background-video-atom"><video
-                id="f92529a9-31f4-f1a8-5b9d-029960060efb-video" autoplay="" loop=""
-                style="background-image:url(&quot;../assets/06dea2d7-6737d13cae675b376faa9fbe678520c48410578bd8cd41ae_Nowhere-poster-00001.jpg&quot;)"
-                muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
-                <source src="../assets/0694f8b3-6737d13cae675b376faa9fbe678520c48410578bd8cd41ae_Nowhere-transcode.mp4"
-                  data-wf-ignore="true" />
-                <source src="../assets/dbab1b69-6737d13cae675b376faa9fbe678520c48410578bd8cd41ae_Nowhere-transcode.webm"
-                  data-wf-ignore="true" />
-              </video></address>
-          </div>
+        <div id="w-node-fa90ea41-437f-3a41-3f18-442441834205-df9a3711" class="project-info">
+          <h1 class="project-title">Invoice Portal</h1>
+          <div class="mainimagelol"><img src="../assets/invoice-portal.jpg"
+              loading="lazy"
+              alt="Social event animated poster. Mixed media ink portrait of a siren woman with koi fish and fantasy elements around. &#x27;See you in the Arterlife&#x27; is the title of this poster."
+              class="project-media" /></div>
         </div>
-        <div id="w-node-b35d274e-1d91-230d-b887-24bbb274eaef-49a56d4f" class="project-description">
-          <p class="project-description_text">In the most isolated passages you could find yourself. A way of no return,
-            to get out, once your potential is acknowledged by your own eyes.🕹️</p>
-          <p class="project-description_text">Animated pixel art twist of “Liminal dreams” by <a
-              href="https://www.instagram.com/elnaz555/">@elnaz555.</a> Her artwork is amazing and it inspired me
-            through a harsh time.</p>
-          <p class="project-description_text">Please, serve this visual with your most alternative song. ☎️</p>
+        <div id="w-node-b35d274e-1d91-230d-b887-24bbb274eaef-df9a3711" class="project-description">
+          <p class="project-description_text">‘See u in the afterlife’ is a vivid meet-up experience, where art comes
+            alive in everybody’s presence. Art is found through our eyes, words and experiences. This poster event
+            embodies the get-togethers that cautives our hearts.</p>
           <div class="project-tags-info">
-            <p class="project-tags">Pixel art animation</p>
+            <p class="project-tags">Event poster</p>
             <p class="project-tags">2024</p>
           </div>
           <div class="more-tags">
-            <p class="project-tags medium">Music industry</p>
-            <p class="project-tags medium">p5js code</p>
+            <p class="project-tags medium">Mixed media</p>
+            <p class="project-tags medium">Animation</p>
           </div>
         </div>
         <div class="cuadrant-info">
@@ -165,68 +151,31 @@
           <div class="pj-image-container"></div>
         </div>
       </section>
-      <section class="gallery display-none">
+      <section class="gallery">
         <h2 class="heading-4">PROCESS DUMP</h2>
         <div class="gallery_container">
-          <div class="gallery_image img_1 video-container">
-            <div
-              data-poster-url="../assets/94e1fda1-6737d13cae675b376faa9fbe6787c00328ffb5e6d1f76540_ritmo_3-poster-00001.jpg"
-              data-video-urls="../assets/ea6cfe6a-6737d13cae675b376faa9fbe6787c00328ffb5e6d1f76540_ritmo_3-transcode.mp4,../assets/c324d25e-6737d13cae675b376faa9fbe6787c00328ffb5e6d1f76540_ritmo_3-transcode.webm"
-              data-autoplay="true" data-loop="true" data-wf-ignore="true"
-              class="w-background-video w-background-video-atom"><video id="5f3ea86e-aa7c-1dce-77d2-5aa7b62a692b-video"
-                autoplay="" loop=""
-                style="background-image:url(&quot;../assets/94e1fda1-6737d13cae675b376faa9fbe6787c00328ffb5e6d1f76540_ritmo_3-poster-00001.jpg&quot;)"
-                muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
-                <source src="../assets/ea6cfe6a-6737d13cae675b376faa9fbe6787c00328ffb5e6d1f76540_ritmo_3-transcode.mp4"
-                  data-wf-ignore="true" />
-                <source src="../assets/c324d25e-6737d13cae675b376faa9fbe6787c00328ffb5e6d1f76540_ritmo_3-transcode.webm"
-                  data-wf-ignore="true" />
-              </video></div>
-          </div>
-          <div class="gallery_image img_2 video-container">
-            <div
-              data-poster-url="../assets/0c3bcdcf-6737d13cae675b376faa9fbe6787c08fff0351758d228b59_Ritmo-AlejandraPiedra-poster-00001.jpg"
-              data-video-urls="../assets/1e5b8c09-6737d13cae675b376faa9fbe6787c08fff0351758d228b59_Ritmo-AlejandraPiedra-transcode.mp4,../assets/e37d3b75-6737d13cae675b376faa9fbe6787c08fff0351758d228b59_Ritmo-AlejandraPiedra-transcode.webm"
-              data-autoplay="true" data-loop="true" data-wf-ignore="true"
-              class="w-background-video w-background-video-atom"><video id="df03fb43-ff54-9daa-95f5-2053688c3357-video"
-                autoplay="" loop=""
-                style="background-image:url(&quot;../assets/0c3bcdcf-6737d13cae675b376faa9fbe6787c08fff0351758d228b59_Ritmo-AlejandraPiedra-poster-00001.jpg&quot;)"
-                muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
-                <source
-                  src="../assets/1e5b8c09-6737d13cae675b376faa9fbe6787c08fff0351758d228b59_Ritmo-AlejandraPiedra-transcode.mp4"
-                  data-wf-ignore="true" />
-                <source
-                  src="../assets/e37d3b75-6737d13cae675b376faa9fbe6787c08fff0351758d228b59_Ritmo-AlejandraPiedra-transcode.webm"
-                  data-wf-ignore="true" />
-              </video></div>
-          </div><img src="../assets/df9fc497-6787c3e1e439fedcbfdbf0e1_Sketch_alejandraPiedra.png" loading="lazy"
-            sizes="100vw" height="400"
-            alt="p5js visual art sketch of a glitch reddish purple color generative art. Generated by music behind."
-            srcset="../assets/308b30c5-6787c3e1e439fedcbfdbf0e1_Sketch_alejandraPiedra-p-500.png 500w, ../assets/df9fc497-6787c3e1e439fedcbfdbf0e1_Sketch_alejandraPiedra.png 991w"
-            class="gallery_image img_3 no-visible" /><img
-            src="../assets/df9fc497-6787c3e1e439fedcbfdbf0e1_Sketch_alejandraPiedra.png" loading="lazy" sizes="100vw"
+          <img src="../assets/invoice-mb.jpg"
+            loading="lazy" sizes="(max-width: 479px) 100vw, 225px" height="400" alt=""
+            srcset="../assets/invoice-mb.jpg 500w, ../assets/invoice-mb.jpg 540w"
+            class="gallery_image img_1" />
+          <img src="../assets/701326b9-6784fddadeca199d873c0eb2_Drawing-timeline.gif"
+            loading="lazy" alt="Stop motion animated process of a fantasy siren woman and koi fish ink portrait "
+            height="400" class="gallery_image img_2" /><img
+            src="../assets/ba0fd15d-6785d67f54d3c42b004d0b15_IMG_7605.jpg" loading="lazy"
+            sizes="(max-width: 479px) 100vw, (max-width: 991px) 238.8852081298828px, 24vw" height="400"
+            alt="A designer&#x27;s hand about to scann a ink portrait. Process of mixed media intervention in photoshop."
+            srcset="../assets/c6d12721-6785d67f54d3c42b004d0b15_IMG_7605-p-500.jpg 500w, ../assets/514770fa-6785d67f54d3c42b004d0b15_IMG_7605-p-800.jpg 800w, ../assets/d163f062-6785d67f54d3c42b004d0b15_IMG_7605-p-1080.jpg 1080w, ../assets/ba0fd15d-6785d67f54d3c42b004d0b15_IMG_7605.jpg 1275w"
+            class="gallery_image img_3" /><img
+            src="../assets/58646b5d-6784fdd94da11a51e1262967_Sirena-portrait_alejandraPiedra.jpg" loading="lazy"
+            sizes="(max-width: 479px) 100vw, (max-width: 767px) 65vw, (max-width: 991px) 313.7770690917969px, 32vw"
+            srcset="../assets/03871604-6784fdd94da11a51e1262967_Sirena-portrait_alejandraPiedra-p-500.jpg 500w, ../assets/ad0641bb-6784fdd94da11a51e1262967_Sirena-portrait_alejandraPiedra-p-800.jpg 800w, ../assets/58646b5d-6784fdd94da11a51e1262967_Sirena-portrait_alejandraPiedra.jpg 878w"
+            alt="Mixed media blue ink portrait of a siren woman with koi fish, oranges and fantasy elements around."
+            class="gallery_image img_4" /><img src="../assets/03b34ac1-6785d65fb6bf84ed20d1ff24_IMG_7606.jpg"
+            loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 51vw, (max-width: 991px) 32vw, 25vw"
             height="400"
-            alt="p5js visual art sketch of a glitch reddish purple color generative art. Generated by music behind."
-            srcset="../assets/308b30c5-6787c3e1e439fedcbfdbf0e1_Sketch_alejandraPiedra-p-500.png 500w, ../assets/df9fc497-6787c3e1e439fedcbfdbf0e1_Sketch_alejandraPiedra.png 991w"
-            class="gallery_image img_4" />
-          <div class="gallery_image img_5 video-container">
-            <div
-              data-poster-url="../assets/3b6d592c-6737d13cae675b376faa9fbe6787c10b63bdcd084370759a_Glitch_dans_la_nuit-poster-00001.jpg"
-              data-video-urls="../assets/404dc99c-6737d13cae675b376faa9fbe6787c10b63bdcd084370759a_Glitch_dans_la_nuit-transcode.mp4,../assets/74793a06-6737d13cae675b376faa9fbe6787c10b63bdcd084370759a_Glitch_dans_la_nuit-transcode.webm"
-              data-autoplay="true" data-loop="true" data-wf-ignore="true"
-              class="w-background-video w-background-video-atom"><video id="b1bcb2a8-6b8e-f0a9-1d67-0159c94a9e42-video"
-                autoplay="" loop=""
-                style="background-image:url(&quot;../assets/3b6d592c-6737d13cae675b376faa9fbe6787c10b63bdcd084370759a_Glitch_dans_la_nuit-poster-00001.jpg&quot;)"
-                muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
-                <source
-                  src="../assets/404dc99c-6737d13cae675b376faa9fbe6787c10b63bdcd084370759a_Glitch_dans_la_nuit-transcode.mp4"
-                  data-wf-ignore="true" />
-                <source
-                  src="../assets/74793a06-6737d13cae675b376faa9fbe6787c10b63bdcd084370759a_Glitch_dans_la_nuit-transcode.webm"
-                  data-wf-ignore="true" />
-              </video></div>
-          </div>
-        </div>
+            alt="Alejandra&#x27;s desktop setup with a designer doing mixed medio intervention of an ink portrait in Photoshop."
+            srcset="../assets/a92a7acb-6785d65fb6bf84ed20d1ff24_IMG_7606-p-500.jpg 500w, ../assets/03044c23-6785d65fb6bf84ed20d1ff24_IMG_7606-p-800.jpg 800w, ../assets/16289428-6785d65fb6bf84ed20d1ff24_IMG_7606-p-1080.jpg 1080w, ../assets/03b34ac1-6785d65fb6bf84ed20d1ff24_IMG_7606.jpg 1284w"
+            class="gallery_image img_5" /></div>
       </section>
       <footer class="footer">
         <div class="w-layout-blockcontainer w-container"><a stagger-link=""
@@ -242,7 +191,7 @@
                 class="footer-link">Behance</a></li>
             <li><a href="https://www.twitter.com/alepiedrag" target="_blank" class="footer-link">Twitter</a></li>
           </ul>
-          <p class="project-tags">Alejandra Piedra <strong>© 2026.</strong></p>
+          <p class="extrabold">Alejandra Piedra <strong>© 2026.</strong></p>
         </div>
       </footer>
     </div>
@@ -478,12 +427,11 @@
     const gifElement = document.getElementById("menu-icon")
     console.log(gifElement, gifContainer)
     const gif = new SuperGif({ gif: gifElement })
-    let FRAME_RATE = 180
+    const FRAME_RATE = 180
 
     gif.load(function () {
       gif.pause()
       frameController("mouseout")
-      console.log("load", FRAME_RATE)
     });
 
     const faceButtonEventHandler = event => {
@@ -521,29 +469,21 @@
       console.log(currentActionType)
       if (currentActionType === "mouseover") {
         intervalId = setInterval(frameUpdateLogic, FRAME_RATE, 6, 7)
-        FRAME_RATE = 140
-        console.log("hover", FRAME_RATE)
       }
       if (currentActionType === "mouseout") {
         intervalId = setInterval(frameUpdateLogic, FRAME_RATE, 0, 1)
-        FRAME_RATE = 180
-        console.log("mouse out", FRAME_RATE)
       }
       if (currentActionType === "click" && !isMenuActive) {
         intervalId = setInterval(frameUpdateLogic, FRAME_RATE, 6, 8)
         isClicked.play();
         isMenuActive = true
         console.log("click 1")
-        FRAME_RATE = 140
-        console.log("click", FRAME_RATE)
       }
       else if (currentActionType === "click" && isMenuActive) {
         intervalId = setInterval(frameUpdateLogic, FRAME_RATE, 0, 1)
         isClicked.reverse();
         isMenuActive = false
         console.log("click 2")
-        FRAME_RATE = 140
-        console.log("clic menu", FRAME_RATE)
       }
     }
 
