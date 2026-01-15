@@ -13,7 +13,7 @@ $(document).ready(function () {
     });
 });
 
-let dataTitle = document.getElementById("data-title");
+let dataTitle = document.getElementById("category").innerText;
 const isTouchDevice = 'ontouchstart' in window || navigator.maxTouchPoints > 0 || window.matchMedia("[pointer: coarse]").matches;
 
 
@@ -257,6 +257,7 @@ links.forEach((link) => {
     });
 
     link.addEventListener("mouseleave", () => {
+        console.log(dataTitle)
         title.innerText = dataTitle;
         body.classList.remove("hovered");
         link.classList.remove("hovered");

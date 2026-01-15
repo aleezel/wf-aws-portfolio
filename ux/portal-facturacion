@@ -126,12 +126,10 @@
               class="project-media" /></div>
         </div>
         <div id="w-node-b35d274e-1d91-230d-b887-24bbb274eaef-df9a3711" class="project-description">
-          <p class="project-description_text">‘See u in the afterlife’ is a vivid meet-up experience, where art comes
-            alive in everybody’s presence. Art is found through our eyes, words and experiences. This poster event
-            embodies the get-togethers that cautives our hearts.</p>
+          <p class="project-description_text"></p>
           <div class="project-tags-info">
-            <p class="project-tags">Event poster</p>
-            <p class="project-tags">2024</p>
+            <p class="project-tags">UX UI</p>
+            <p class="project-tags">2025</p>
           </div>
           <div class="more-tags">
             <p class="project-tags medium">Mixed media</p>
@@ -301,7 +299,6 @@
   <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
   <script src="https://unpkg.com/lenis@1.1.19/dist/lenis.min.js"></script>
   <script src="https://timingisnow.alejandra-piedra.com/libgif.js"></script>
-  <script src="../js/main.js"></script>
 
   <script>
 
@@ -515,7 +512,7 @@
         .to(".mainimagelol", { y: "0%", rotation: 7 })
         .to(".mainimagelol", { left: "50%", rotationY: 360, rotation: 0 })
         .to(".project-title", { left: "50%", y: "-150%" }, ">-1")
-        .to(".project-title", { left: "50%", y: "-150%" }, ">-1")
+        .to(".project-title", { left: "50%", y: "-315%" }, ">-1")
         .to(".project-description_text .word, .project-tags .word",
           {
             opacity: 1, y: 0, duration: 1, stagger: { amount: 0.2 },
