@@ -557,35 +557,32 @@
 
     // ┊͙✧˖ PROJECT TIMELINE AFTER LOAD࿐┊͙
     let mm = gsap.matchMedia();
-
+  
     mm.add({
-      isMobile: "(max-width: 500px)",
-      isDesktop: "(min-width: 500px)"
+      isMobile:"(max-width: 991px)",
+      isDesktop: "(min-width: 992px)"
     }, (context) => {
-      let = { isDesktop, isMobile } = context.conditions;
-
+      let = { isDesktop, isMobile} = context.conditions;
+      
       // ┊͙✧˖*°࿐ STARRING PROJECT SHOW OFF TRANSITION  ✧˖*°࿐┊͙
-      gsap.set(".mainimagelol", { y: "130%", left: isDesktop ? "100%" : "50%" })
+      gsap.set(".mainimagelol", {y: "130%", left: isDesktop ? "100%" : "50%" })
       //gsap.set([".mainimage", ".project-title"], {x: "100%"})
-      gsap.set(".project-title", { opacity: 0, left: isMobile ? "50%" : "100%" })
-      gsap.set(".project-description_text .word, .project-tags .word", { opacity: 0, y: 30 })
-
-
-      let leanOutLoopTL = gsap.timeline({ defaults: { duration: 1, ease: "elastic.out(0.5,0.4)" } });
-      leanOutLoopTL.to(".project-title", { opacity: 1, duration: 0.5, ease: "power2.in" })
-        .to(".mainimagelol", { y: "100%", ease: "elastic.out(1,0.4)" })
-        .to(".mainimagelol", { y: "0%", rotation: 7 })
-        .to(".mainimagelol", { left: "50%", rotationY: 360, rotation: 0 })
-        .to(".project-title", { left: "50%", y: "-150%" }, ">-1")
-        .to(".project-title", { left: "50%", y: "-150%" }, ">-1")
-        .to(".project-description_text .word, .project-tags .word",
-          {
-            opacity: 1, y: 0, duration: 1, stagger: { amount: 0.2 },
-            onComplete: () => {
-              scrollTime = 1000;
-            }
-          }, ">-1");
-    })
+      gsap.set(".project-title", {opacity: 0, left: isMobile ? "50%" : "100%"})
+      gsap.set(".project-description_text .word, .project-tags .word", {opacity: 0, y: 30})
+      
+      
+      let leanOutLoopTL = gsap.timeline({ defaults: { duration: 1, ease: "elastic.out(0.5,0.4)"} });
+      leanOutLoopTL.to(".project-title", {opacity: 1, duration: 0.5, ease:"power2.in" })
+      .to(".mainimagelol", {y: "100%", ease:"elastic.out(1,0.4)"})
+      .to(".mainimagelol", {y: "0%", rotation: 7})
+      .to(".mainimagelol", {left: "50%", rotationY: 360, rotation: 0})
+      .to(".project-title", {left: "50%", y: "-150%"}, ">-1")
+      .to(".project-title", {left: "50%", y: "-150%"}, ">-1")
+      .to(".project-description_text .word, .project-tags .word",
+          {opacity: 1, y: 0, duration: 1,	stagger: { amount: 0.2 },
+           onComplete: () => {
+            scrollTime = 1000;
+           }}, ">-1"); })
 
     // ┊͙✧˖*°࿐ TEXT REVEAL  ✧˖*°࿐┊͙ 
 

@@ -143,7 +143,7 @@
         </div>
         <div id="w-node-b35d274e-1d91-230d-b887-24bbb274eaef-dc819b6f" class="project-description">
           <p class="project-description_text">A website experience for a single release campaign, perfect to tease fans and turn it into a memorable journey. </p>
-          <p class="project-description_text">Based on the song Evil Spider by Benee, it explores love through a hunting lense. Impactful project to learn the fundations of interactive websites with GSAP and webflow.&quot;.🕷</p>
+          <p class="project-description_text">Based on the song Evil Spider by Benee, it explores love through a hunting lense. Impactful project to learn the fundations of interactive websites with GSAP and webflow.🕷</p>
           <div class="project-tags-info">
             <p class="project-tags">Web design & code</p>
             <p class="project-tags">2025</p>
@@ -559,37 +559,34 @@
       types: "lines, words"
     });
 
-    // ┊͙✧˖ PROJECT TIMELINE AFTER LOAD࿐┊͙
-    let mm = gsap.matchMedia();
-
-    mm.add({
-      isMobile: "(max-width: 500px)",
-      isDesktop: "(min-width: 500px)"
-    }, (context) => {
-      let = { isDesktop, isMobile } = context.conditions;
-
-      // ┊͙✧˖*°࿐ STARRING PROJECT SHOW OFF TRANSITION  ✧˖*°࿐┊͙
-      gsap.set(".mainimagelol", { y: isDesktop ? "130%" : "150%", left: isDesktop ? "100%" : "50%" })
-      //gsap.set([".mainimage", ".project-title"], {x: "100%"})
-      gsap.set(".project-title", { opacity: 0, left: "50%", y: isDesktop ? "0%" : "120%" })
-      gsap.set(".project-description_text .word, .project-tags .word", { opacity: 0, y: 30 })
-
-
-      let leanOutLoopTL = gsap.timeline({ defaults: { duration: 1, ease: "elastic.out(0.5,0.4)" } });
-      leanOutLoopTL.to(".project-title", { opacity: 1, duration: 0.5, ease: "power2.in" })
-        .to(".mainimagelol", { y: isDesktop ? "100%" : "80%", ease: "elastic.out(1,0.4)" })
-        .to(".mainimagelol", { y: "0%", rotation: isDesktop ? 7 : 0 })
-        .to(".mainimagelol", { left: "50%", rotationY: isDesktop ? 360 : 0, rotation: 0 })
-        .to(".project-title", { left: "50%", y: "-150%" }, ">-1")
-        .to(".project-title", { left: "50%", y: "-275%" }, ">-1")
-        .to(".project-description_text .word, .project-tags .word",
-          {
-            opacity: 1, y: 0, duration: 1, stagger: { amount: 0.2 },
-            onComplete: () => {
-              scrollTime = 1000;
-            }
-          }, ">-1");
-    })
+// ┊͙✧˖ PROJECT TIMELINE AFTER LOAD࿐┊͙
+	let mm = gsap.matchMedia();
+  
+  mm.add({
+  	isMobile:"(max-width: 991px)",
+    isDesktop: "(min-width: 992px)"
+  }, (context) => {
+  	let = { isDesktop, isMobile} = context.conditions;
+    
+    // ┊͙✧˖*°࿐ STARRING PROJECT SHOW OFF TRANSITION  ✧˖*°࿐┊͙
+		gsap.set(".mainimagelol", {y: "130%", left: isDesktop ? "100%" : "50%" })
+		//gsap.set([".mainimage", ".project-title"], {x: "100%"})
+		gsap.set(".project-title", {opacity: 0, left: isMobile ? "50%" : "100%"})
+    gsap.set(".project-description_text .word, .project-tags .word", {opacity: 0, y: 30})
+    
+    
+		let leanOutLoopTL = gsap.timeline({ defaults: { duration: 1, ease: "elastic.out(0.5,0.4)"} });
+		leanOutLoopTL.to(".project-title", {opacity: 1, duration: 0.5, ease:"power2.in" })
+    .to(".mainimagelol", {y: "100%", ease:"elastic.out(1,0.4)"})
+    .to(".mainimagelol", {y: "0%", rotation: 7})
+    .to(".mainimagelol", {left: "50%", rotationY: 360, rotation: 0})
+    .to(".project-title", {left: "50%", y: "-150%"}, ">-1")
+    .to(".project-title", {left: "50%", y: "-150%"}, ">-1")
+    .to(".project-description_text .word, .project-tags .word",
+    		{opacity: 1, y: 0, duration: 1,	stagger: { amount: 0.2 },
+     		onComplete: () => {
+  				scrollTime = 1000;
+     		}}, ">-1"); })
 
     // ┊͙✧˖*°࿐ TEXT REVEAL  ✧˖*°࿐┊͙ 
 

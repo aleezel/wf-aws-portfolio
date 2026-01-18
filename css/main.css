@@ -1,0 +1,26 @@
+/* P R O J E C T S  S E C T I O N */
+
+.process-intro{
+    height: 40svh;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+.process-container{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 40px;
+    position: sticky;
+    top: 50%;
+}
+
+.process-img{
+    width: 500;
+}

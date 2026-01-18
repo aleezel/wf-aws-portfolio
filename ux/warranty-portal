@@ -530,8 +530,8 @@
     let mm = gsap.matchMedia();
 
     mm.add({
-      isMobile: "(max-width: 500px)",
-      isDesktop: "(min-width: 500px)"
+      isMobile: "(max-width: 991px)",
+      isDesktop: "(min-width: 992px)"
     }, (context) => {
       let = { isDesktop, isMobile } = context.conditions;
 
