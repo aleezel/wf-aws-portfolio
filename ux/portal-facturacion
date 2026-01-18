@@ -156,15 +156,18 @@
       </section>
       
 
-      <section class="process-scroll">
-        <div id="process-1" class="process-container">
+      <section class="process-container">
+        <div id="" class="process-imgs">
           <img class="process-img" src="../assets/process(1).jpg" alt="">
+          <img class="process-img" src="../assets/process(1).jpg" alt="">
+        </div>
+        
+
+        <div id="" class="process-texts">
+          <p class="project-description_text">Strategically think of the wireframes and iterate with the business skateholders</p>
           <p class="project-description_text">Strategically think of the wireframes and iterate with the business skateholders</p>
         </div>
-        <div id="process-2" class="process-container">
-          <img class="process-img" src="../assets/process(1).jpg" alt="">
-          <p class="project-description_text">Strategically think of the wireframes and iterate with the business skateholders</p>
-        </div>
+
       </section>
 
 
