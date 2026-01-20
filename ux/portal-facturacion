@@ -164,8 +164,8 @@
         
 
         <div id="" class="process-texts">
-          <p class="project-description_text">Strategically think of the wireframes and iterate with the business skateholders</p>
-          <p class="project-description_text">Strategically think of the wireframes and iterate with the business skateholders</p>
+          <p class="process-info project-description_text">Strategically think of the wireframes and iterate with the business skateholders</p>
+          <p class="process-info project-description_text">Strategically think of the wireframes and iterate with the business skateholders</p>
         </div>
 
       </section>
@@ -556,27 +556,27 @@
     });
 
 
-    // ┊͙✧˖*°࿐ GALLERY DUMP ON SCROLL  ✧˖*°࿐┊͙
-    gsap.set(".gallery_image", { opacity: 0 });
+    // // ┊͙✧˖*°࿐ GALLERY DUMP ON SCROLL  ✧˖*°࿐┊͙
+    // gsap.set(".gallery_image", { opacity: 0 });
 
-    let scrollGallery = gsap.timeline({
-      delay: 3,
-      scrollTrigger: {
-        trigger: ".gallery",
-        start: "top bottom",
-        end: "50vh 50vh",
-        scrub: true,
-        ease: "elastic.out(1,0.4)",
-        defaults: { ease: "power1" }
-      }
-    });
+    // let scrollGallery = gsap.timeline({
+    //   delay: 3,
+    //   scrollTrigger: {
+    //     trigger: ".gallery",
+    //     start: "top bottom",
+    //     end: "50vh 50vh",
+    //     scrub: true,
+    //     ease: "elastic.out(1,0.4)",
+    //     defaults: { ease: "power1" }
+    //   }
+    // });
 
-    scrollGallery.to(".gallery_image", { opacity: 1, duration: 0.5, stagger: { amount: 0.3, from: "random" } })
-      .to(".img_1", { y: "-25%", rotation: -6, x: "-55%" }, "0.4")
-      .to(".img_2", { y: "-120%", rotation: 3, x: "5%" }, "1.2")
-      .to(".img_3", { y: "-210%", rotation: -8, x: "-150%" }, "1.6")
-      .to(".img_4", { y: "-310%", rotation: 3, x: "100%" }, "2")
-      .to(".img_5", { y: "-480%", rotation: 5, x: "60%" }, "2.3")
+    // scrollGallery.to(".gallery_image", { opacity: 1, duration: 0.5, stagger: { amount: 0.3, from: "random" } })
+    //   .to(".img_1", { y: "-25%", rotation: -6, x: "-55%" }, "0.4")
+    //   .to(".img_2", { y: "-120%", rotation: 3, x: "5%" }, "1.2")
+    //   .to(".img_3", { y: "-210%", rotation: -8, x: "-150%" }, "1.6")
+    //   .to(".img_4", { y: "-310%", rotation: 3, x: "100%" }, "2")
+    //   .to(".img_5", { y: "-480%", rotation: 5, x: "60%" }, "2.3")
 
 
     // ┊͙✧˖*°࿐ FOOTER SPLIT TEXT  ✧˖*°࿐┊͙

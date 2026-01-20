@@ -9,7 +9,6 @@
 }
 
 .process-container{
-    height: 100dvh;
     display: flex;
     align-content: center;
     justify-content: center;
@@ -24,6 +23,7 @@
     width: clamp(300px, 45vw, 800px);
     align-items: center;
     justify-items: center;
+    transform: translate(0, -50%);
     > * {
     grid-area: 1 / 1 / 2 / 2;
     }
@@ -35,7 +35,7 @@
 
 .process-img{
     width: 100%;
+    height:auto;
     object-fit: contain;
-    height: 100dvh;
-    height: 100svh;
+
 }

@@ -13,7 +13,7 @@ isMobile:"(max-width: 991px)",
 
     gsap.set(processIntro, {height: "90svh"})
 
-  	const processTl = gsap.timeline({
+  	const processIntroTl = gsap.timeline({
         scrollTrigger:{
             trigger:".process-intro",
             start: isDesktop ? "top center" : "top 25%",
@@ -29,8 +29,35 @@ isMobile:"(max-width: 991px)",
         } 
     })
 
-    processTl.to("body#project-page", {backgroundColor: "#222"})
+    processIntroTl.to("body#project-page", {backgroundColor: "#222"})
     .to("h3", {color: "#e1e1e1"}, 0);
+
+    let processTl = gsap.timeline({
+        scrollTrigger:{
+            trigger: ".process-container",
+            start: "top center",
+            end: `${window.innerHeight * 2} top`,
+            scrub: true,
+            pin: true,
+            markers: true,
+
+        }
+    })
+
+    processTl.from(
+        ".process-img",
+        {
+            y: () => window.innerHeight,
+            duration: 1,
+            stagger: 2
+        }
+    ).from(".process-info",{
+        y: () => window.innerHeight,
+            duration: 1,
+            stagger: 2
+    }, "<")
+
+    console.log(window.innerHeight)
 
 })
 
