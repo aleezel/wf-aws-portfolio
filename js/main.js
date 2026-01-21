@@ -1,5 +1,6 @@
 
 gsap.registerPlugin(TextPlugin)
+// gsap.registerPlugin(GSDevTools) ;
 // ┊͙✧˖*°࿐ !!!!   DISABLE SCROLL AND ENABLE AFTER LADING ANIMATION  !!!  ✧˖*°࿐┊͙
 
 

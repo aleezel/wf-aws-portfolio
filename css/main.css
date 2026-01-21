@@ -10,20 +10,24 @@
 
 .process-container{
     display: flex;
-    align-content: center;
     justify-content: center;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
+    min-height: 100svh;
 }
+/* .process-container{
+    transform: translate(0, -50%);
+} */
 
-.process-container>div{
+.process-container > div{
     padding: clamp(10px, 2vw, 50px);
     display: grid;
     width: clamp(300px, 45vw, 800px);
     align-items: center;
-    justify-items: center;
-    transform: translate(0, -50%);
+    height: auto;
+    justify-content: center;
+    /* transform: translate(0, -50%); */
     > * {
     grid-area: 1 / 1 / 2 / 2;
     }
