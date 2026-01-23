@@ -538,6 +538,23 @@
       );
     }
 
+     // Function to animate text
+    function animateTextProject(element) {
+      const lines = element.querySelectorAll('.');
+      gsap.fromTo(
+        lines,
+        { opacity: 0, y: 30 },
+        {
+          opacity: 1,
+          y: 0,
+          stagger: 0.2,
+          duration: 1,
+          ease: 'power2.out',
+          onComplete: () => element.style.opacity = '1' // Ensure text remains visible after animation
+        }
+      );
+    }
+
     // Create an Intersection Observer
     const observer = new IntersectionObserver(
       (entries, observer) => {

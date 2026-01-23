@@ -3,6 +3,7 @@
 
 
 const processIntro = document.querySelector('.process-intro')
+let processImg = document.querySelectorAll('.process-img')
 
 gsap.set("body#project-page", { backgroundColor: "#e1e1e1" });
 
@@ -32,7 +33,7 @@ isMobile:"(max-width: 991px)",
         } 
     })
 
-    processIntroTl.to("body#project-page", {backgroundColor: "#222"})
+    processIntroTl.to("body#project-page", {backgroundColor: "#19A8F8"})
     .to("h3", {color: "#e1e1e1"}, 0);
 
     const processTl = gsap.timeline({
@@ -42,7 +43,7 @@ isMobile:"(max-width: 991px)",
         scrollTrigger:{
             trigger: ".process-container",
             start: "top top",
-            end: `${window.innerHeight * 2} top`,
+            end: `${window.innerHeight * processImg.length} top`,
             scrub: true,
             pin: true,
             markers: true,
@@ -64,7 +65,18 @@ isMobile:"(max-width: 991px)",
             duration: 1,
             stagger: 2
     }, "<")
-    .to(".process-text:not(:last-child)",
+   
+
+    processImg.forEach((img, index) => {
+        gsap.set(img, {
+            rotation:gsap.utils.random(-15, 15)})
+
+        processTl.to(img, {
+            rotation: gsap.utils.random(-2.5, 2.5),
+        }, "<")
+    })
+
+    processTl.to(".process-text:not(:last-child)",
         {y: () => -window.innerHeight,
             duration: 1,
             stagger: 2
@@ -73,8 +85,6 @@ isMobile:"(max-width: 991px)",
     
     ScrollTrigger.sort();
 
-
-    console.log(window.innerHeight)
     // GSDevTools.create({ animation: processTl });
 })
 
