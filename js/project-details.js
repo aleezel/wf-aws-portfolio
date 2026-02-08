@@ -1,16 +1,20 @@
 //project intro
 // gsap.registerPlugin(GSDevTools) ;
 
-
+//variables
 const processIntro = document.querySelector('.process-intro')
 let processImg = document.querySelectorAll('.process-img')
 
+//Setters
 gsap.set("body#project-page", { backgroundColor: "#e1e1e1" });
+
+console.log(processImg.length - 2);
+
 
 let matchM = gsap.matchMedia();
 
 matchM.add({
-isMobile:"(max-width: 991px)",
+    isMobile:"(max-width: 991px)",
     isDesktop: "(min-width: 992px)"
   }, (context) => {
     let = { isDesktop, isMobile} = context.conditions;
@@ -36,6 +40,7 @@ isMobile:"(max-width: 991px)",
     processIntroTl.to("body#project-page", {backgroundColor: "#19A8F8"})
     .to("h3", {color: "#e1e1e1"}, 0);
 
+    // ┊͙✧˖*°࿐ Process details  ✧˖*°࿐┊͙
     const processTl = gsap.timeline({
         defautls: {
             ease: "none"
@@ -43,11 +48,10 @@ isMobile:"(max-width: 991px)",
         scrollTrigger:{
             trigger: ".process-container",
             start: "top top",
-            end: `${window.innerHeight * processImg.length} top`,
+            end: `${window.innerHeight *  processImg.length} top`,
             scrub: true,
             pin: true,
             markers: true,
-
         }
     });
 
@@ -63,7 +67,7 @@ isMobile:"(max-width: 991px)",
     .from(".process-text",{
         y: () => window.innerHeight,
             duration: 1,
-            stagger: 2
+            stagger: 2,
     }, "<")
    
 
@@ -79,11 +83,13 @@ isMobile:"(max-width: 991px)",
     processTl.to(".process-text:not(:last-child)",
         {y: () => -window.innerHeight,
             duration: 1,
-            stagger: 2
+            stagger: 2, 
+            opacity: 0
         }, 2
     );
     
     ScrollTrigger.sort();
+    
 
     // GSDevTools.create({ animation: processTl });
 })
