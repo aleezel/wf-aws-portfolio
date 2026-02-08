@@ -3,7 +3,8 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>See you in the Arterlife — Alejandra Piedra</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Nativo — Alejandra Piedra</title>
   <meta
     content="&#x27;See you in the arterlife&#x27; is an animated mixed-media event poster about vivid meet-up experiences, where art comes alive in everybody&#x27;s presence. The art is inspired by the flow/trance state where creativity unlocks. The poster title is  inspired by the song &#x27;See you in the afterlife&#x27; by Foster the People, a band whom the designer is very in love of."
     name="description" />
@@ -19,6 +20,7 @@
   <meta content="summary_large_image" name="twitter:card" />
   <meta content="width=device-width, initial-scale=1" name="viewport" />
   <link href="../css/webflow-style.css" rel="stylesheet" type="text/css" />
+  <link href="../css/main.css" rel="stylesheet" type="text/css" />
   <link href="https://fonts.googleapis.com" rel="preconnect" />
   <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous" />
   <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
@@ -40,7 +42,7 @@
   </style>
 </head>
 
-<body class="body">
+<body id="project-page" class="body">
   <div class="page_wrapper">
     <div class="w-embed">
       <style>
@@ -119,23 +121,39 @@
     <div class="main_wrapper">
       <section class="hero-section">
         <div id="w-node-fa90ea41-437f-3a41-3f18-442441834205-df9a3711" class="project-info">
-          <h1 class="project-title">See U in the afterlife</h1>
-          <div class="mainimagelol"><img src="../assets/29de62ec-6784fdda5258c49adc96e692_Sirenaposter_alePiedra.gif"
-              loading="lazy"
-              alt="Social event animated poster. Mixed media ink portrait of a siren woman with koi fish and fantasy elements around. &#x27;See you in the Arterlife&#x27; is the title of this poster."
-              class="project-media" /></div>
+          <h1 class="project-title">Nativo</h1>
+
+            <div class="mainimagelol">
+              <address
+                data-poster-url="../assets/5f70fb63-6737d13cae675b376faa9fbe6787a4429ab5e1f18a2cf701_Stage_dans_la_nuit-poster-00001.jpg"
+                data-video-urls="../assets/nativo.mp4"
+                data-autoplay="true" data-loop="true" data-wf-ignore="true"
+                class="project-media">
+                <video width="550"
+                  id="f92529a9-31f4-f1a8-5b9d-029960060efb-video" autoplay="" loop=""
+                  style="background-image:url(&quot;../assets/5f70fb63-6737d13cae675b376faa9fbe6787a4429ab5e1f18a2cf701_Stage_dans_la_nuit-poster-00001.jpg&quot;)"
+                  muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+                  
+                
+                  <source
+                    src="../assets/nativo.mp4"
+                    type="video/webm"
+                    alt="Nativo project main image, a gif of the logo and previews on a printed shirt"
+                    data-wf-ignore="true" />
+                  
+                </video></address>
+          </div>
         </div>
         <div id="w-node-b35d274e-1d91-230d-b887-24bbb274eaef-df9a3711" class="project-description">
-          <p class="project-description_text">‘See u in the afterlife’ is a vivid meet-up experience, where art comes
-            alive in everybody’s presence. Art is found through our eyes, words and experiences. This poster event
-            embodies the get-togethers that cautives our hearts.</p>
+          <p class="project-description_text">Nativo is the homeplace for new and veteran creatives that wanna jump on trying different plastic art practices.</p>
+          <p class="project-description_text">Just let go of your imagination, this is your place.</p>
           <div class="project-tags-info">
-            <p class="project-tags">Event poster</p>
-            <p class="project-tags">2024</p>
+            <p class="project-tags">Branding</p>
+            <p class="project-tags">2025</p>
           </div>
           <div class="more-tags">
-            <p class="project-tags medium">Mixed media</p>
-            <p class="project-tags medium">Animation</p>
+            <p class="project-tags medium">Illustration</p>
+            <p class="project-tags medium">2D animation</p>
           </div>
         </div>
         <div class="cuadrant-info">
@@ -145,36 +163,30 @@
           <div class="project-tags-grid bottom-right">2024</div>
         </div>
       </section>
-      <section class="process-info">
-        <div class="process-info_container">
-          <div class="pj-image-container _1"></div>
-          <div class="pj-image-container"></div>
+
+      <section>
+        <div class="process-intro">
+          <h3 class="pIntro-title">Inside nativo</h3>
         </div>
       </section>
-      <section class="gallery">
-        <h2 class="heading-4">PROCESS DUMP</h2>
-        <div class="gallery_container"><img src="../assets/48612744-6785d6313252a68f8629a48a_IMG_7714.JPG"
-            loading="lazy" sizes="(max-width: 479px) 100vw, 225px" height="400" alt=""
-            srcset="../assets/11699e4b-6785d6313252a68f8629a48a_IMG_7714-p-500.jpg 500w, ../assets/48612744-6785d6313252a68f8629a48a_IMG_7714.JPG 540w"
-            class="gallery_image img_1" /><img src="../assets/701326b9-6784fddadeca199d873c0eb2_Drawing-timeline.gif"
-            loading="lazy" alt="Stop motion animated process of a fantasy siren woman and koi fish ink portrait "
-            height="400" class="gallery_image img_2" /><img
-            src="../assets/ba0fd15d-6785d67f54d3c42b004d0b15_IMG_7605.jpg" loading="lazy"
-            sizes="(max-width: 479px) 100vw, (max-width: 991px) 238.8852081298828px, 24vw" height="400"
-            alt="A designer&#x27;s hand about to scann a ink portrait. Process of mixed media intervention in photoshop."
-            srcset="../assets/c6d12721-6785d67f54d3c42b004d0b15_IMG_7605-p-500.jpg 500w, ../assets/514770fa-6785d67f54d3c42b004d0b15_IMG_7605-p-800.jpg 800w, ../assets/d163f062-6785d67f54d3c42b004d0b15_IMG_7605-p-1080.jpg 1080w, ../assets/ba0fd15d-6785d67f54d3c42b004d0b15_IMG_7605.jpg 1275w"
-            class="gallery_image img_3" /><img
-            src="../assets/58646b5d-6784fdd94da11a51e1262967_Sirena-portrait_alejandraPiedra.jpg" loading="lazy"
-            sizes="(max-width: 479px) 100vw, (max-width: 767px) 65vw, (max-width: 991px) 313.7770690917969px, 32vw"
-            srcset="../assets/03871604-6784fdd94da11a51e1262967_Sirena-portrait_alejandraPiedra-p-500.jpg 500w, ../assets/ad0641bb-6784fdd94da11a51e1262967_Sirena-portrait_alejandraPiedra-p-800.jpg 800w, ../assets/58646b5d-6784fdd94da11a51e1262967_Sirena-portrait_alejandraPiedra.jpg 878w"
-            alt="Mixed media blue ink portrait of a siren woman with koi fish, oranges and fantasy elements around."
-            class="gallery_image img_4" /><img src="../assets/03b34ac1-6785d65fb6bf84ed20d1ff24_IMG_7606.jpg"
-            loading="lazy" sizes="(max-width: 479px) 100vw, (max-width: 767px) 51vw, (max-width: 991px) 32vw, 25vw"
-            height="400"
-            alt="Alejandra&#x27;s desktop setup with a designer doing mixed medio intervention of an ink portrait in Photoshop."
-            srcset="../assets/a92a7acb-6785d65fb6bf84ed20d1ff24_IMG_7606-p-500.jpg 500w, ../assets/03044c23-6785d65fb6bf84ed20d1ff24_IMG_7606-p-800.jpg 800w, ../assets/16289428-6785d65fb6bf84ed20d1ff24_IMG_7606-p-1080.jpg 1080w, ../assets/03b34ac1-6785d65fb6bf84ed20d1ff24_IMG_7606.jpg 1284w"
-            class="gallery_image img_5" /></div>
+      
+
+      <section class="process-container">
+        <div id="" class="process-imgs">
+          <img class="process-img" src="../assets/process(1).jpg" alt="">
+          <img class="process-img" src="../assets/process(1).jpg" alt="">
+        </div>
+        
+
+        <div id="" class="process-texts">
+          <p class="process-info project-description_text">Strategically think of the wireframes and iterate with the business skateholders</p>
+          <p class="process-info project-description_text">Strategically think of the wireframes and iterate with the business skateholders</p>
+        </div>
+
       </section>
+
+
+     
       <footer class="footer">
         <div class="w-layout-blockcontainer w-container"><a stagger-link=""
             href="mailto:alejandraapiedrag@gmail.com?subject=Project%20request%20%E2%9C%A7%20%5Binfo%20here%5D"
@@ -299,6 +311,7 @@
   <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
   <script src="https://unpkg.com/lenis@1.1.19/dist/lenis.min.js"></script>
   <script src="https://timingisnow.alejandra-piedra.com/libgif.js"></script>
+  <script src="../js/projects.js"type="text/javascript" ></script>
 
   <script>
 
@@ -490,37 +503,34 @@
       types: "lines, words"
     });
 
-    // ┊͙✧˖ PROJECT TIMELINE AFTER LOAD࿐┊͙
-    let mm = gsap.matchMedia();
-
-    mm.add({
-      isMobile: "(max-width: 991px)",
-      isDesktop: "(min-width: 992px)"
-    }, (context) => {
-      let = { isDesktop, isMobile } = context.conditions;
-
-      // ┊͙✧˖*°࿐ STARRING PROJECT SHOW OFF TRANSITION  ✧˖*°࿐┊͙
-      gsap.set(".mainimagelol", { y: "130%", left: isDesktop ? "100%" : "50%" })
-      //gsap.set([".mainimage", ".project-title"], {x: "100%"})
-      gsap.set(".project-title", { opacity: 0, left: isMobile ? "50%" : "100%" })
-      gsap.set(".project-description_text .word, .project-tags .word", { opacity: 0, y: 30 })
-
-
-      let leanOutLoopTL = gsap.timeline({ defaults: { duration: 1, ease: "elastic.out(0.5,0.4)" } });
-      leanOutLoopTL.to(".project-title", { opacity: 1, duration: 0.5, ease: "power2.in" })
-        .to(".mainimagelol", { y: "100%", ease: "elastic.out(1,0.4)" })
-        .to(".mainimagelol", { y: "0%", rotation: 7 })
-        .to(".mainimagelol", { left: "50%", rotationY: 360, rotation: 0 })
-        .to(".project-title", { left: "50%", y: "-150%" }, ">-1")
-        .to(".project-title", { left: "50%", y: "-150%" }, ">-1")
-        .to(".project-description_text .word, .project-tags .word",
-          {
-            opacity: 1, y: 0, duration: 1, stagger: { amount: 0.2 },
-            onComplete: () => {
-              scrollTime = 1000;
-            }
-          }, ">-1");
-    })
+// ┊͙✧˖ PROJECT TIMELINE AFTER LOAD࿐┊͙
+	let mm = gsap.matchMedia();
+  
+  mm.add({
+  	isMobile:"(max-width: 991px)",
+    isDesktop: "(min-width: 992px)"
+  }, (context) => {
+  	let = { isDesktop, isMobile} = context.conditions;
+    
+    // ┊͙✧˖*°࿐ STARRING PROJECT SHOW OFF TRANSITION  ✧˖*°࿐┊͙
+		gsap.set(".mainimagelol", {y: "130%", left: isDesktop ? "100%" : "50%" })
+		//gsap.set([".mainimage", ".project-title"], {x: "100%"})
+		gsap.set(".project-title", {opacity: 0, left: isMobile ? "50%" : "100%"})
+    gsap.set(".project-description_text .word, .project-tags .word", {opacity: 0, y: 30})
+    
+    
+		let leanOutLoopTL = gsap.timeline({ defaults: { duration: 1, ease: "elastic.out(0.5,0.4)"} });
+		leanOutLoopTL.to(".project-title", {opacity: 1, duration: 0.5, ease:"power2.in" })
+    .to(".mainimagelol", {y: "100%", ease:"elastic.out(1,0.4)"})
+    .to(".mainimagelol", {y: "0%", rotation: 7})
+    .to(".mainimagelol", {left: "50%", rotationY: 360, rotation: 0})
+    .to(".project-title", {left: "50%", y: "-150%"}, ">-1")
+    .to(".project-title", {left: "50%", y: "-270%"}, ">-1")
+    .to(".project-description_text .word, .project-tags .word",
+    		{opacity: 1, y: 0, duration: 1,	stagger: { amount: 0.2 },
+     		onComplete: () => {
+  				scrollTime = 1000;
+     		}}, ">-1"); })
 
     // ┊͙✧˖*°࿐ TEXT REVEAL  ✧˖*°࿐┊͙ 
 
@@ -561,27 +571,27 @@
     });
 
 
-    // ┊͙✧˖*°࿐ GALLERY DUMP ON SCROLL  ✧˖*°࿐┊͙
-    gsap.set(".gallery_image", { opacity: 0 });
+    // // ┊͙✧˖*°࿐ GALLERY DUMP ON SCROLL  ✧˖*°࿐┊͙
+    // gsap.set(".gallery_image", { opacity: 0 });
 
-    let scrollGallery = gsap.timeline({
-      delay: 3,
-      scrollTrigger: {
-        trigger: ".gallery",
-        start: "top bottom",
-        end: "50vh 50vh",
-        scrub: true,
-        ease: "elastic.out(1,0.4)",
-        defaults: { ease: "power1" }
-      }
-    });
+    // let scrollGallery = gsap.timeline({
+    //   delay: 3,
+    //   scrollTrigger: {
+    //     trigger: ".gallery",
+    //     start: "top bottom",
+    //     end: "50vh 50vh",
+    //     scrub: true,
+    //     ease: "elastic.out(1,0.4)",
+    //     defaults: { ease: "power1" }
+    //   }
+    // });
 
-    scrollGallery.to(".gallery_image", { opacity: 1, duration: 0.5, stagger: { amount: 0.3, from: "random" } })
-      .to(".img_1", { y: "-25%", rotation: -6, x: "-55%" }, "0.4")
-      .to(".img_2", { y: "-120%", rotation: 3, x: "5%" }, "1.2")
-      .to(".img_3", { y: "-210%", rotation: -8, x: "-150%" }, "1.6")
-      .to(".img_4", { y: "-310%", rotation: 3, x: "100%" }, "2")
-      .to(".img_5", { y: "-480%", rotation: 5, x: "60%" }, "2.3")
+    // scrollGallery.to(".gallery_image", { opacity: 1, duration: 0.5, stagger: { amount: 0.3, from: "random" } })
+    //   .to(".img_1", { y: "-25%", rotation: -6, x: "-55%" }, "0.4")
+    //   .to(".img_2", { y: "-120%", rotation: 3, x: "5%" }, "1.2")
+    //   .to(".img_3", { y: "-210%", rotation: -8, x: "-150%" }, "1.6")
+    //   .to(".img_4", { y: "-310%", rotation: 3, x: "100%" }, "2")
+    //   .to(".img_5", { y: "-480%", rotation: 5, x: "60%" }, "2.3")
 
 
     // ┊͙✧˖*°࿐ FOOTER SPLIT TEXT  ✧˖*°࿐┊͙
