@@ -79,11 +79,15 @@
         color: inherit;
       }
 
-      body.hovered .panning-links a img {
+      body .panning-links a {
+        transition: all .2s cubic-bezier(.86, 0, .07, 1);
+      }
+
+      body.hovered .panning-links a {
         opacity: 0.1;
       }
 
-      body.hovered .panning-links a.hovered img {
+      body.hovered .panning-links a.hovered {
         opacity: 1;
         transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
         transform: scale(1.1);
@@ -277,6 +281,22 @@
           sizes="(max-width: 479px) 100vw, (max-width: 767px) 275.8600769042969px, (max-width: 991px) 36vw, 344.82501220703125px"
           class="image" /></a>
       <link rel="prefetch" href="/work/arterlife" />
+
+      <a data-info="best things I've experienced!" data-title="WORKSHOPS AND TALKS" href="/work/workshops-talks">
+        <figure
+          data-poster-url="./assets/5f70fb63-6737d13cae675b376faa9fbe6787a4429ab5e1f18a2cf701_Stage_dans_la_nuit-poster-00001.jpg"
+          data-video-urls="./assets/workshop-hr_home.mp4"
+          data-autoplay="true" data-loop="true" data-wf-ignore="true"
+          >
+          <video class="image" id="workshop-video" autoplay="" loop="" 
+            style="background-image:url(&quot;./assets/evilspider-cover.jpg&quot;)"
+            muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+            <source
+              src="./assets/workshop-hr_home.mp4"
+              data-wf-ignore="true" />
+          </video></figure>
+        </a>
+      <link rel="prefetch" href="/work/workshopss-talks" />
 
       <a data-info="cool, right?" data-title="RESTER DANS MA SPHÈRE" href="/work/rester-dans-ma-sphere"
         class="image link-block w-inline-block"><img src="./assets/59c0bc53-674255eb2d79a3af38a99ba2_Mycose_vol_II_35.gif"
