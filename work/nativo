@@ -6,15 +6,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Nativo — Alejandra Piedra</title>
   <meta
-    content="&#x27;See you in the arterlife&#x27; is an animated mixed-media event poster about vivid meet-up experiences, where art comes alive in everybody&#x27;s presence. The art is inspired by the flow/trance state where creativity unlocks. The poster title is  inspired by the song &#x27;See you in the afterlife&#x27; by Foster the People, a band whom the designer is very in love of."
-    name="description" />
-  <meta content="See you in the Arterlife — Alejandra Piedra" property="og:title" />
+    content="&#x27;Nativo is the homeplace for new and veteran creatives that wanna jump on trying different plastic art practices." />
+  <meta content="Nativo — Alejandra Piedra" property="og:title" />
   <meta
-    content="&#x27;See you in the arterlife&#x27; is an animated mixed-media event poster about vivid meet-up experiences, where art comes alive in everybody&#x27;s presence. The art is inspired by the flow/trance state where creativity unlocks. The poster title is  inspired by the song &#x27;See you in the afterlife&#x27; by Foster the People, a band whom the designer is very in love of."
+    content="Nativo is the homeplace for new and veteran creatives that wanna jump on trying different plastic art practices."
     property="og:description" />
-  <meta content="See you in the Arterlife — Alejandra Piedra" property="twitter:title" />
+  <meta content="Nativo Branding — Alejandra Piedra" property="twitter:title" />
   <meta
-    content="&#x27;See you in the arterlife&#x27; is an animated mixed-media event poster about vivid meet-up experiences, where art comes alive in everybody&#x27;s presence. The art is inspired by the flow/trance state where creativity unlocks. The poster title is  inspired by the song &#x27;See you in the afterlife&#x27; by Foster the People, a band whom the designer is very in love of."
+    content="Nativo is the homeplace for new and veteran creatives that wanna jump on trying different plastic art practices. "
     property="twitter:description" />
   <meta property="og:type" content="website" />
   <meta content="summary_large_image" name="twitter:card" />
@@ -122,26 +121,23 @@
       <section class="hero-section">
         <div id="w-node-fa90ea41-437f-3a41-3f18-442441834205-df9a3711" class="project-info">
           <h1 class="project-title">Nativo</h1>
-
-            <div class="mainimagelol">
-              <address
-                data-poster-url="../assets/5f70fb63-6737d13cae675b376faa9fbe6787a4429ab5e1f18a2cf701_Stage_dans_la_nuit-poster-00001.jpg"
-                data-video-urls="../assets/nativo.mp4"
-                data-autoplay="true" data-loop="true" data-wf-ignore="true"
-                class="project-media">
-                <video width="550"
-                  id="f92529a9-31f4-f1a8-5b9d-029960060efb-video" autoplay="" loop=""
-                  style="background-image:url(&quot;../assets/5f70fb63-6737d13cae675b376faa9fbe6787a4429ab5e1f18a2cf701_Stage_dans_la_nuit-poster-00001.jpg&quot;)"
-                  muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
-                  
+          <div class="mainimagelol">
+            <address
+              data-poster-url="../assets/nativo-logo.jpg"
+              data-video-urls="../assets/nativo.mp4"
+              data-autoplay="true" data-loop="true" data-wf-ignore="true"
+              class="project-media">
+              <video width="550"
+                id="f92529a9-31f4-f1a8-5b9d-029960060efb-video" autoplay="" loop=""
+                style="background-image:url(&quot;../assets/nativo-logo.jpg&quot;)"
+                muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+               
+                <source
+                  src="../assets/nativo.mp4"
+                  type="video/webm"
+                  data-wf-ignore="true" />
                 
-                  <source
-                    src="../assets/nativo.mp4"
-                    type="video/webm"
-                    alt="Nativo project main image, a gif of the logo and previews on a printed shirt"
-                    data-wf-ignore="true" />
-                  
-                </video></address>
+              </video></address>
           </div>
         </div>
         <div id="w-node-b35d274e-1d91-230d-b887-24bbb274eaef-df9a3711" class="project-description">
@@ -153,7 +149,7 @@
           </div>
           <div class="more-tags">
             <p class="project-tags medium">Illustration</p>
-            <p class="project-tags medium">2D animation</p>
+            <p class="project-tags medium">Frame animation</p>
           </div>
         </div>
         <div class="cuadrant-info">
@@ -173,18 +169,53 @@
 
       <section class="process-container">
         <div id="" class="process-imgs">
-          <img class="process-img" src="../assets/process(1).jpg" alt="">
-          <img class="process-img" src="../assets/process(1).jpg" alt="">
+          <img class="process-img" src="../assets/nativo-logo.jpg" alt="">
+          <div>
+            <video class="process-img"
+                id="f92529a9-31f4-f1a8-5b9d-029960060efb-video" autoplay="" loop=""
+                style="background-image:url(&quot;../assets/5f70fb63-6737d13cae675b376faa9fbe6787a4429ab5e1f18a2cf701_Stage_dans_la_nuit-poster-00001.jpg&quot;)"
+                muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+                <source
+                  src="../assets/nativo-reel.mp4"
+                  type="video/mp4"
+                  data-wf-ignore="true" />
+              </video>
+          </div>
+          <img class="process-img" src="../assets/nativo-moodboard.jpg" alt="">
+          <img class="process-img" src="../assets/nativo-typo.jpg" alt="">
+          <img class="process-img" src="../assets/nativo-stickers.jpg" alt="">
+          
+          <div>
+            <video class="process-img"
+                id="f92529a9-31f4-f1a8-5b9d-029960060efb-video" autoplay="" loop=""
+                style="background-image:url(&quot;../assets/5f70fb63-6737d13cae675b376faa9fbe6787a4429ab5e1f18a2cf701_Stage_dans_la_nuit-poster-00001.jpg&quot;)"
+                muted="" playsinline="" data-wf-ignore="true" data-object-fit="cover">
+                <source
+                  src="../assets/nativo-mantra720-c.mp4"
+                  type="video/mp4"
+                  data-wf-ignore="true" />
+              </video>
+          </div>
         </div>
         
 
         <div id="" class="process-texts">
-          <p class="process-info project-description_text">Strategically think of the wireframes and iterate with the business skateholders</p>
-          <p class="process-info project-description_text">Strategically think of the wireframes and iterate with the business skateholders</p>
+          <p class="process-text split-mask">Lor, my client, put her final dot to her doubts when she aligned her professional path with her reason of being to a single word: create.</p>
+          <p class="process-text split-mask">Nativo is the place where anykind of creations are born in a city that need more reasons to be more than just work all day. <br> San Andrés Tuxtla, MX.</p>
+          <p class="process-text split-mask">The journey started by the initial creators of the planets: the natives. Their energy and motion to survive is something all artists can relate.</p>
+          <div class="process-text">
+            <p class="split-mask">We got close together to imagine Nativo from it’s initial personality to it’s final form: a place were creatives and news in the practice loss their judgements and fears, have fun and relax around creating their minds. <br>
+            </p>
+          </div>
+          
+          <p class="process-text split-mask">Nativo is that close friend to the people around to her community and a urban brand merch dropper. Relax, you just gotta be you.</p>
+          <p class="process-text split-mask">Hey, the table is placed and you, like home.</p>
         </div>
 
       </section>
 
+      <img src="../assets/nativo-phrase.jpg" alt="" class="">
+      <img src="../assets/nativo-final.jpg" alt="" class="">
 
      
       <footer class="footer">
@@ -311,331 +342,12 @@
   <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/ScrollTrigger.min.js"></script>
   <script src="https://unpkg.com/lenis@1.1.19/dist/lenis.min.js"></script>
   <script src="https://timingisnow.alejandra-piedra.com/libgif.js"></script>
-  <script src="../js/projects.js"type="text/javascript" ></script>
+  <script src="https://cdn.jsdelivr.net/npm/gsap@3.14.1/dist/SplitText.min.js"></script>
+  <script src="../js/project-details.js"type="text/javascript" ></script>
 
-  <script>
+  <script src="../ux/postal-facturacion.js">
 
-    // ┊͙✧˖*°࿐ !!!!   DISABLE SCROLL AND ENABLE AFTER LADING ANIMATION  !!!  ✧˖*°࿐┊͙
-
-
-    // ┊͙✧˖*°࿐ !!!!   LOAD  ANIMATIONS WHILE DOM FROM GSAP   !!!  ✧˖*°࿐┊͙
-    // wait until DOM is ready
-    let heroSection = document.querySelector(".hero-section");
-    let nav = document.querySelector("nav");
-    $(document).ready(function () {
-      // OPTIONAL - waits til next tick render to run code (prevents running in the middle of render tick)
-      window.requestAnimationFrame(function () {
-        heroSection.style.opacity = 1;
-        nav.style.opacity = 1;
-      });
-    });
-
-    // ┊͙✧˖*°࿐  SMOOTH SCROLL  ✧˖*°࿐┊͙
-    const lenis = new Lenis();
-    let scrollTime = 0;
-
-    // Synchronize Lenis scrolling with GSAP's ScrollTrigger plugin
-    lenis.on('scroll', ScrollTrigger.update);
-    // Add Lenis's requestAnimationFrame (raf) method to GSAP's ticker
-    // This ensures Lenis's smooth scroll animation updates on each GSAP tick
-    gsap.ticker.add((time) => {
-      lenis.raf(time * scrollTime); // Convert time from seconds to milliseconds
-    });
-    // Disable lag smoothing in GSAP to prevent any delay in scroll animations
-    gsap.ticker.lagSmoothing(0);
-
-
-    // ┊͙✧˖*°࿐ PIXEL TRANSITION AT START  ✧˖*°࿐┊͙
-    gsap.to(".load_grid-pixel", {
-      opacity: 0,
-      duration: 0.001,
-      stagger: { amount: 0.5, from: "random" },
-      onComplete: () => {
-        gsap.set(".load_grid", { display: "none" });
-      }
-    });
-
-    // ✧TRANSITION AFTER CLICKING✧
-    $(document).ready(function () {
-      $("a").on("click", function (e) {
-        if (
-          $(this).prop("hostname") === window.location.host &&
-          $(this).attr("href").indexOf("#") === -1 &&
-          $(this).attr("target") !== "_blank") {
-          e.preventDefault();
-          let destination = $(this).attr("href");
-          gsap.set(".load_grid", { display: "grid" });
-          gsap.fromTo(
-            ".load_grid-pixel",
-            {
-              opacity: 0
-            },
-            {
-              opacity: 1,
-              duration: 0.001,
-              stagger: { amount: 0.5, from: "random" }, //you can also try a from: "start" or "end" -- get creative!
-              onComplete: () => {
-                window.location = destination;
-              }
-            }
-          );
-        }
-      });
-
-      // On click of the back button
-      window.onpageshow = function (event) {
-        if (event.persisted) {
-          window.location.reload();
-        }
-      }
-    });
-
-    // ┊͙✧˖*°࿐  MENU ANIMATION  ✧˖*°࿐┊͙
-    const staggerLinks = document.querySelectorAll("[stagger-link]")
-    gsap.set(".menu-dropdown", { display: "none", y: "8rem" })
-
-    //	let menuHover = gsap.to(".menu-icon", 1, {x: -384, ease:"steps(-6)", paused: true});
-    //	let menuIcon = document.querySelector(".animicon-container");
-
-    let isClicked = gsap.timeline({ paused: true })
-    isClicked.from(".menu-dropdown", { display: "none", y: "8rem", duration: 0 })
-      .to(".menu-dropdown", {
-        display: "flex", y: "6rem",
-        onComplete: () => {
-          console.log("careless whispers")
-        }
-      })
-      .from(".menu-link", {
-        y: "2rem", opacity: 0, ease: "power4.inOut",
-        stagger: { each: 0.01 }
-      }, "<")
-
-
-    //isClicked.to("menu-text [stagger-link]", )
-
-
-    //["mouseenter", "touchmove"].forEach( event =>
-    //	menuIcon.addEventListener(event, () => {
-    //  	menuHover.play()
-    //    console.log("hola");
-    //  })
-    //)
-
-    //["mouseout", "touchend"].forEach( event =>
-    //	menuIcon.addEventListener(event, () => {
-    //  	menuHover.reverse()
-    //  })
-    //)
-
-    //["click", "touchend"].forEach( event =>
-    //	menuIcon.addEventListener(event, () => {
-    //  	isClicked.play()
-    //})
-    //)
-
-    const gifContainer = document.getElementById("animicon-container")
-    const gifElement = document.getElementById("menu-icon")
-    console.log(gifElement, gifContainer)
-    const gif = new SuperGif({ gif: gifElement })
-    const FRAME_RATE = 180
-
-    gif.load(function () {
-      gif.pause()
-      frameController("mouseout")
-    });
-
-    const faceButtonEventHandler = event => {
-      frameController(event.type)
-    }
-
-    const frameUpdateLogic = (startFrame, endFrame) => {
-      // debo saber en que frame estoy
-      // en base al tipo debo calcular cuál sigue
-      // debo actalizar el frame
-      const currentFrame = gif.get_current_frame()
-      if (currentFrame > endFrame) {
-        gif.move_to(currentFrame - 1)
-      } else if (currentFrame < endFrame) {
-        let nextFrame = currentFrame + 1
-        gif.move_to(nextFrame)
-      } else {
-        gif.move_to(startFrame)
-      }
-    }
-
-    gifContainer.addEventListener("mouseover", faceButtonEventHandler)
-    gifContainer.addEventListener("mouseout", faceButtonEventHandler)
-    gifContainer.addEventListener("click", faceButtonEventHandler)
-
-
-    // Tres tipos de reproducción,
-    // mouseout: Sin tocar nada, solo se reproducen los primeros 3 frames
-    // mouseover: Poner el mouse sobre el gif, se reproducen del 4 al 7
-    // click: Das click y se reproducen 8 al 10
-    let intervalId = null;
-    let isMenuActive = false;
-    const frameController = (currentActionType) => {
-      clearInterval(intervalId)
-      console.log(currentActionType)
-      if (currentActionType === "mouseover") {
-        intervalId = setInterval(frameUpdateLogic, FRAME_RATE, 6, 7)
-      }
-      if (currentActionType === "mouseout") {
-        intervalId = setInterval(frameUpdateLogic, FRAME_RATE, 0, 1)
-      }
-      if (currentActionType === "click" && !isMenuActive) {
-        intervalId = setInterval(frameUpdateLogic, FRAME_RATE, 6, 8)
-        isClicked.play();
-        isMenuActive = true
-        console.log("click 1")
-      }
-      else if (currentActionType === "click" && isMenuActive) {
-        intervalId = setInterval(frameUpdateLogic, FRAME_RATE, 0, 1)
-        isClicked.reverse();
-        isMenuActive = false
-        console.log("click 2")
-      }
-    }
-
-
-    // ┊͙✧˖*°࿐ HEAD TEXT REVEAL  ✧˖*°࿐┊͙ 
-    const revealText = new SplitType("p", {
-      types: "lines, words"
-    });
-
-// ┊͙✧˖ PROJECT TIMELINE AFTER LOAD࿐┊͙
-	let mm = gsap.matchMedia();
-  
-  mm.add({
-  	isMobile:"(max-width: 991px)",
-    isDesktop: "(min-width: 992px)"
-  }, (context) => {
-  	let = { isDesktop, isMobile} = context.conditions;
-    
-    // ┊͙✧˖*°࿐ STARRING PROJECT SHOW OFF TRANSITION  ✧˖*°࿐┊͙
-		gsap.set(".mainimagelol", {y: "130%", left: isDesktop ? "100%" : "50%" })
-		//gsap.set([".mainimage", ".project-title"], {x: "100%"})
-		gsap.set(".project-title", {opacity: 0, left: isMobile ? "50%" : "100%"})
-    gsap.set(".project-description_text .word, .project-tags .word", {opacity: 0, y: 30})
-    
-    
-		let leanOutLoopTL = gsap.timeline({ defaults: { duration: 1, ease: "elastic.out(0.5,0.4)"} });
-		leanOutLoopTL.to(".project-title", {opacity: 1, duration: 0.5, ease:"power2.in" })
-    .to(".mainimagelol", {y: "100%", ease:"elastic.out(1,0.4)"})
-    .to(".mainimagelol", {y: "0%", rotation: 7})
-    .to(".mainimagelol", {left: "50%", rotationY: 360, rotation: 0})
-    .to(".project-title", {left: "50%", y: "-150%"}, ">-1")
-    .to(".project-title", {left: "50%", y: "-270%"}, ">-1")
-    .to(".project-description_text .word, .project-tags .word",
-    		{opacity: 1, y: 0, duration: 1,	stagger: { amount: 0.2 },
-     		onComplete: () => {
-  				scrollTime = 1000;
-     		}}, ">-1"); })
-
-    // ┊͙✧˖*°࿐ TEXT REVEAL  ✧˖*°࿐┊͙ 
-
-    // Function to animate text
-    function animateText(element) {
-      const lines = element.querySelectorAll('.word');
-      gsap.fromTo(
-        lines,
-        { opacity: 0, y: 30 },
-        {
-          opacity: 1,
-          y: 0,
-          stagger: 0.2,
-          duration: 1,
-          ease: 'power2.out',
-          onComplete: () => element.style.opacity = '1' // Ensure text remains visible after animation
-        }
-      );
-    }
-
-    // Create an Intersection Observer
-    const observer = new IntersectionObserver(
-      (entries, observer) => {
-        entries.forEach(entry => {
-          if (entry.isIntersecting) {
-            animateText(entry.target); // Trigger animation
-            //observer.unobserve(entry.target); // Stop observing after animating
-            console.log(entry)
-          }
-        });
-      },
-      { threshold: 0.1 } // Trigger when 10% of the element is visible
-    );
-
-    // Observe each element
-    document.querySelectorAll('p:not(.project-description_text):not(.project-tags)').forEach(text => {
-      observer.observe(text);
-    });
-
-
-    // // ┊͙✧˖*°࿐ GALLERY DUMP ON SCROLL  ✧˖*°࿐┊͙
-    // gsap.set(".gallery_image", { opacity: 0 });
-
-    // let scrollGallery = gsap.timeline({
-    //   delay: 3,
-    //   scrollTrigger: {
-    //     trigger: ".gallery",
-    //     start: "top bottom",
-    //     end: "50vh 50vh",
-    //     scrub: true,
-    //     ease: "elastic.out(1,0.4)",
-    //     defaults: { ease: "power1" }
-    //   }
-    // });
-
-    // scrollGallery.to(".gallery_image", { opacity: 1, duration: 0.5, stagger: { amount: 0.3, from: "random" } })
-    //   .to(".img_1", { y: "-25%", rotation: -6, x: "-55%" }, "0.4")
-    //   .to(".img_2", { y: "-120%", rotation: 3, x: "5%" }, "1.2")
-    //   .to(".img_3", { y: "-210%", rotation: -8, x: "-150%" }, "1.6")
-    //   .to(".img_4", { y: "-310%", rotation: 3, x: "100%" }, "2")
-    //   .to(".img_5", { y: "-480%", rotation: 5, x: "60%" }, "2.3")
-
-
-    // ┊͙✧˖*°࿐ FOOTER SPLIT TEXT  ✧˖*°࿐┊͙
-    let staggerLink;
-    function runSplit() {
-      staggerLink = new SplitType("[stagger-link]", {
-        types: "words, chars"
-      });
-    }
-    runSplit();
-
-    // Update on windows resize, checks if the browser changes resolution to run again the function
-    let windowWidth = $(window).innerWidth();
-    window.addEventListener("resize", function () {
-      if (windowWidth !== $(window).innerWidth()) {
-        windowWidth = $(window).innerWidth();
-        staggerLink.revert();
-        runSplit();
-      }
-    });
-
-    // ✧SETTING AND TIMELINE ANIMATION✧
-
-    staggerLinks.forEach((link) => {
-      const letters = link.querySelectorAll("[stagger-link-text] .char");
-      link.addEventListener("mouseenter", function () {
-        gsap.to(letters, {
-          yPercent: -130,
-          duration: 0.5,
-          ease: "power4.inOut",
-          stagger: { each: 0.01 },
-          overwrite: true
-        });
-
-      });
-      link.addEventListener("mouseleave", function () {
-        gsap.to(letters, {
-          yPercent: 0,
-          duration: 0.5,
-          ease: "power4.inOut",
-          stagger: { each: 0.01 }
-        });
-      });
-    });
+   
 
 
   </script>

@@ -26,7 +26,6 @@
 .process-container > div{
     padding: clamp(10px, 2vw, 50px);
     display: grid;
-    width: clamp(300px, 45vw, 800px);
     align-items: center;
     height: auto;
     justify-content: center;
@@ -37,6 +36,14 @@
     }
     
     
+}
+
+.process-imgs{
+    width: clamp(300px, 50vw, 800px);
+}
+
+.process-texts{
+    width: clamp(300px, 40vw, 800px);
 }
 
 

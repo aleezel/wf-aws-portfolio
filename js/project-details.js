@@ -28,7 +28,6 @@ matchM.add({
             end: "bottom 50%",
             pin:false,
             scrub:false,
-            // markers: true,
             toggleActions: "play reverse restart reverse"
         },
         defaults: {
@@ -51,7 +50,6 @@ matchM.add({
             end: `${window.innerHeight *  processImg.length} top`,
             scrub: true,
             pin: true,
-            markers: true,
         }
     });
 
