@@ -54,3 +54,26 @@
     object-fit: contain;
 
 }
+
+tag{
+    position: relative;
+    top: -50%;
+    transform: translate(50%, 0%);
+    display: flex;
+    gap: 8px;
+    color: ghostwhite;
+    background-color: #333;
+
+}
+
+tag:first-child{
+    display: block;
+    size: 0.5rem;
+    aspect-ratio: 1 / 1;
+    color: ghostwhite;
+}
+
+@keyframes tag-blink {
+    from { opacity: 20%;}
+    to { opacity: 0%; }
+}
