@@ -55,25 +55,33 @@
 
 }
 
-tag{
+.tag{
     position: relative;
     top: -50%;
-    transform: translate(50%, 0%);
+    left: 100%;
+    transform: translate(-105%, 50%);
     display: flex;
     gap: 8px;
     color: ghostwhite;
     background-color: #333;
-
+    z-index:2;
+    width: fit-content;
+    align-items: center;
+    padding: 0px 6px;
+    border-radius: 8px;
 }
 
-tag:first-child{
+.dot{
     display: block;
-    size: 0.5rem;
+    height: 0.75rem;
+    width: auto;
     aspect-ratio: 1 / 1;
-    color: ghostwhite;
+    border-radius: 999px;
+    background-color: ghostwhite;
+    animation: tag-blink 0.8s infinite ease-in-out alternate;
 }
 
 @keyframes tag-blink {
     from { opacity: 20%;}
-    to { opacity: 0%; }
+    to { opacity: 100%; }
 }
